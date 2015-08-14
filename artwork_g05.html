@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>SSSE</title>
+<link media="screen" type="text/css" rel="stylesheet" href="css/home.css"></link>
+<link media="screen" type="text/css" rel="stylesheet" href="css/lightbox.css"></link>
+<script src="js/jquery-1.11.3.min.js"></script>
+<script src="js/main.js"></script>
+<script src="js/lightbox.js"></script>
+</head>
+<body>
+  <div class="background-div"><img src="Img/background.png" /></div>
+  <div class="container">
+    <div class="header">
+      <div class="back-div"><a href="golden_prize.html"><img src="Img/back.jpg" /></a></div>
+    </div>
+    <div class="menu-left">
+      <div class="menu-item" id="menu-id1" onclick="window.location.href='index.html';" onmouseover="$(this).css('background-color','#eee')" onmouseout="$(this).css('background-color','transparent')">
+        <p class="chi">展覽簡介</p><p class="eng">Introducion</p>
+      </div>
+      <div class="menu-item menu-item-active" id="menu-id2">
+        <p class="chi">金獎</p><p class="eng">Gold Prize</p>
+      </div>
+      <div class="menu-item" id="menu-id3" onclick="window.location.href='silver_prize.html';" onmouseover="$(this).css('background-color','#eee')" onmouseout="$(this).css('background-color','transparent')">
+        <p class="chi">銀獎</p><p class="eng">Silver Prize</p>
+      </div>
+      <div class="menu-item" id="menu-id4" onclick="window.location.href='certificate.html';" onmouseover="$(this).css('background-color','#eee')" onmouseout="$(this).css('background-color','transparent')">
+        <p class="chi">嘉許狀</p><p class="eng">Certificate of Merit</p>
+      </div>
+      <div class="menu-item" id="menu-id5" onclick="window.location.href='memories.html';" onmouseover="$(this).css('background-color','#eee')" onmouseout="$(this).css('background-color','transparent')">
+        <p class="chi">珍貴時刻</p><p class="eng">Memories</p>
+      </div>
+    </div>
+    <div class="contents">
+      <div class="workinfo">
+        <div class="left-div">
+          <h1 class="chi">王祖杰</h1>
+          <h1 class="eng">WONG Cho-kit</h1>
+          <p class="chi">&nbsp;</p>
+          <table border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="120"><p class="chi">年齡/Age</p><p class="chi">&nbsp;</p></td>
+              <td><p class="eng">17</p><p class="chi">&nbsp;</p></td>
+            </tr>
+            <tr>
+              <td><p class="chi">參展學校</p><p class="eng">School</p><p class="chi">&nbsp;</p></td>
+              <td><p class="chi">循道中學</p><p class="eng">Methodist College</p><p class="chi">&nbsp;</p></td>
+            </tr>
+            <tr>
+              <td><p class="chi">作品主題</p><p class="eng">Topic</p><p class="chi">&nbsp;</p></td>
+              <td><p class="chi">我城</p><p class="eng">Our Town</p><p class="chi">&nbsp;</p></td>
+            </tr>
+            <tr>
+              <td><p class="chi">指導老師</p><p class="eng">Teacher</p><p class="chi">&nbsp;</p></td>
+              <td><p class="chi">傅競揚</p><p class="eng">FU King-yeung
+</p><p class="chi">&nbsp;</p></td>
+            </tr>
+            <tr>
+              <td><p class="chi">類別</p><p class="eng">Category</p><p class="chi">&nbsp;</p></td>
+              <td><p class="chi">平面創作</p><p class="eng">2D Artwork</p><p class="chi">&nbsp;</p></td>
+            </tr>
+          </table>
+          <p class="chi">創作者自白</p>
+          <p class="eng">Artist’s Statement</p>
+          <p class="chi">&nbsp;</p>
+          <p class="chi lh">街道的霓虹燈熄了，世界漸變得冷清。
+陪伴着我成長的舊區，也被社會的進步所取代。對比起舊時的夜夜笙歌，今天的街道，更顯冷清。儘管我盡力把它留在心中，但卻沒法挽回它獨有的味道——人情的味道。</p>
+          <p class="eng lh">Neolights on the streets are extinct. The world has gradually become cold. 
+The old area where I was raised has been replaced by the advancement of the society. Comparing with singing and dancing in the past, the streets are so cold now. No matter how hard I try to memorise, I still cannot preserve the passion of the good old days.</p>
+        </div>
+        <div class="right-div">
+          <h4 class="chi">作品</h4>
+          <h4 class="eng">Artwork</h4>
+          <ul class="student-work-u">
+            <li lsrc="Img/Artwork_1.gold/s052.jpg"><a href="Img/Artwork_1.gold/s052.jpg" data-lightbox="student-work" idx="1" student="王祖杰" work="我城" student-e="WONG Cho-kit" work-e="Our Town"><div class="img-frame"><div></div></div></a></li>
+          </ul>
+        </div>
+        <div style="clear:both"></div>
+      </div>
+    </div>
+    <div style="clear:both"></div>
+    <div class="footer">
+      <p class="footer-eng">2015 &copy; Education Bureau, The Government of the Hong Kong Special Administrative Region (HKSAR). All Rights Reserved.</p>
+      <p class="footer-chi">2015 &copy; 本網頁版權屬香港特別行政區教育局所有。</p>
+    </div>
+  </div>
+<script>
+$(document).ready(function (){
+  $("li").each(function(){
+    var obj_li=$(this).find("a>div>div");
+    var rw=parseInt(obj_li.css("width"));
+    var rh=parseInt(obj_li.css("height"));
+    var img=new Image();
+    img.src=$(this).attr("lsrc");
+    img.onload=function(){
+      var l,t;
+      var w=img.width;
+      var h=img.height;
+      if(w>rw){
+        h=h/w*rw;
+        w=rw;
+      }
+      if(h>rh){
+        w=w/h*rh;
+        h=rh;
+      }
+      l=(rw-w)/2;
+      t=(rh-h)/2;
+      obj_li.html("<img src=\"" + img.src + "\" style=\"width:" + w + "px;height:" + h + "px; position:relative;left:" + l + "px;top:" + t + "px\"/>");
+    };
+  });
+});
+</script>
+</body>
+</html>

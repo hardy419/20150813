@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>SSSE</title>
+<link media="screen" type="text/css" rel="stylesheet" href="css/home.css"></link>
+<script src="js/jquery-1.11.3.min.js"></script>
+<script src="js/main.js"></script>
+</head>
+<body>
+  <div class="background-div"><img src="Img/background.png" /></div>
+  <div class="container">
+    <div class="header">
+      <div class="back-div"><a href="certificate.html"><img src="Img/back.jpg" /></a></div>
+    </div>
+    <div class="menu-left">
+      <div class="menu-item" id="menu-id1" onclick="window.location.href='index.html';" onmouseover="$(this).css('background-color','#eee')" onmouseout="$(this).css('background-color','transparent')">
+        <p class="chi">展覽簡介</p><p class="eng">Introducion</p>
+      </div>
+      <div class="menu-item" id="menu-id2" onclick="window.location.href='golden_prize.html';" onmouseover="$(this).css('background-color','#eee')" onmouseout="$(this).css('background-color','transparent')">
+        <p class="chi">金獎</p><p class="eng">Gold Prize</p>
+      </div>
+      <div class="menu-item" id="menu-id3" onclick="window.location.href='silver_prize.html';" onmouseover="$(this).css('background-color','#eee')" onmouseout="$(this).css('background-color','transparent')">
+        <p class="chi">銀獎</p><p class="eng">Silver Prize</p>
+      </div>
+      <div class="menu-item menu-item-active" id="menu-id4" onclick="window.location.href='certificate.html';">
+        <p class="chi">嘉許狀</p><p class="eng">Certificate of Merit</p>
+      </div>
+      <div class="menu-item" id="menu-id5" onclick="window.location.href='memories.html';" onmouseover="$(this).css('background-color','#eee')" onmouseout="$(this).css('background-color','transparent')">
+        <p class="chi">珍貴時刻</p><p class="eng">Memories</p>
+      </div>
+    </div>
+    <div class="contents">
+      <div class="worklist">
+        <div class="chinese-div">
+          <h2 class="chi">中國書畫</h2>
+        </div>
+        <div class="english-div">
+          <h2 class="eng">Chinese Painting &amp; Calligraphy</h2>
+        </div>
+        <div style="clear:both"></div>
+
+      <div class="jspContainer" style="width:800px;height:490px"><div id="jscrollpane-div">
+        <ul class="worklist-u">
+##list_unit##
+        </ul>
+      </div></div>
+
+        <div style="clear:both"></div>
+      </div>
+    </div>
+    <div style="clear:both"></div>
+    <div class="footer">
+      <p class="footer-eng">2015 &copy; Education Bureau, The Government of the Hong Kong Special Administrative Region (HKSAR). All Rights Reserved.</p>
+      <p class="footer-chi">2015 &copy; 本網頁版權屬香港特別行政區教育局所有。</p>
+    </div>
+  </div>
+<link rel="stylesheet" href="css/jquery.jscrollpane.css" media="all" />
+<script src="js/jquery.mousewheel.js"></script>
+<script src="js/jquery.jscrollpane.min.js"></script>
+<script>
+$(document).ready(function (){
+  $("li").each(function(){
+    var obj_li=$(this).find("a>div>div");
+    var rw=parseInt(obj_li.css("width"));
+    var rh=parseInt(obj_li.css("height"));
+    var img=new Image();
+    if(typeof $(this).attr("lsrc") === 'undefined'){
+      return;
+    }
+    else {
+      img.src=$(this).attr("lsrc");
+    }
+    img.onload=function(){
+      var l,t;
+      var w=img.width;
+      var h=img.height;
+      if(w>rw){
+        h=h/w*rw;
+        w=rw;
+      }
+      if(h>rh){
+        w=w/h*rh;
+        h=rh;
+      }
+      l=(rw-w)/2;
+      t=(rh-h)/2;
+      obj_li.html("<img src=\"" + img.src + "\" style=\"width:" + w + "px;height:" + h + "px; position:relative;left:" + l + "px;top:" + t + "px\"/>");
+    };
+  });
+  
+  $('.jspContainer').jScrollPane();
+});
+</script>
+</body>
+</html>

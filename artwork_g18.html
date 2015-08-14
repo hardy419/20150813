@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>SSSE</title>
+<link media="screen" type="text/css" rel="stylesheet" href="css/home.css"></link>
+<link media="screen" type="text/css" rel="stylesheet" href="css/lightbox.css"></link>
+<script src="js/jquery-1.11.3.min.js"></script>
+<script src="js/main.js"></script>
+<script src="js/lightbox.js"></script>
+</head>
+<body>
+  <div class="background-div"><img src="Img/background.png" /></div>
+  <div class="container">
+    <div class="header">
+      <div class="back-div"><a href="golden_prize.html"><img src="Img/back.jpg" /></a></div>
+    </div>
+    <div class="menu-left">
+      <div class="menu-item" id="menu-id1" onclick="window.location.href='index.html';" onmouseover="$(this).css('background-color','#eee')" onmouseout="$(this).css('background-color','transparent')">
+        <p class="chi">展覽簡介</p><p class="eng">Introducion</p>
+      </div>
+      <div class="menu-item menu-item-active" id="menu-id2">
+        <p class="chi">金獎</p><p class="eng">Gold Prize</p>
+      </div>
+      <div class="menu-item" id="menu-id3" onclick="window.location.href='silver_prize.html';" onmouseover="$(this).css('background-color','#eee')" onmouseout="$(this).css('background-color','transparent')">
+        <p class="chi">銀獎</p><p class="eng">Silver Prize</p>
+      </div>
+      <div class="menu-item" id="menu-id4" onclick="window.location.href='certificate.html';" onmouseover="$(this).css('background-color','#eee')" onmouseout="$(this).css('background-color','transparent')">
+        <p class="chi">嘉許狀</p><p class="eng">Certificate of Merit</p>
+      </div>
+      <div class="menu-item" id="menu-id5" onclick="window.location.href='memories.html';" onmouseover="$(this).css('background-color','#eee')" onmouseout="$(this).css('background-color','transparent')">
+        <p class="chi">珍貴時刻</p><p class="eng">Memories</p>
+      </div>
+    </div>
+    <div class="contents">
+      <div class="workinfo">
+        <div class="left-div">
+          <h1 class="chi">周立進</h1>
+          <h1 class="eng">CHOW Lap-chun</h1>
+          <p class="chi">&nbsp;</p>
+          <table border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="120"><p class="chi">年齡/Age</p><p class="chi">&nbsp;</p></td>
+              <td><p class="eng">17</p><p class="chi">&nbsp;</p></td>
+            </tr>
+            <tr>
+              <td><p class="chi">參展學校</p><p class="eng">School</p><p class="chi">&nbsp;</p></td>
+              <td><p class="chi">何明華會督銀禧中學</p><p class="eng">Bishop Hall Jubilee School</p><p class="chi">&nbsp;</p></td>
+            </tr>
+            <tr>
+              <td><p class="chi">作品主題</p><p class="eng">Topic</p><p class="chi">&nbsp;</p></td>
+              <td><p class="chi">又是老樣子的一天</p><p class="eng">Another Ordinary Day</p><p class="chi">&nbsp;</p></td>
+            </tr>
+            <tr>
+              <td><p class="chi">指導老師</p><p class="eng">Teacher</p><p class="chi">&nbsp;</p></td>
+              <td><p class="chi">楊婉玉</p><p class="eng">YANG Yuen-yuk
+</p><p class="chi">&nbsp;</p></td>
+            </tr>
+            <tr>
+              <td><p class="chi">類別</p><p class="eng">Category</p><p class="chi">&nbsp;</p></td>
+              <td><p class="chi">中國書畫</p><p class="eng">Chinese Painting &amp; Calligraphy</p><p class="chi">&nbsp;</p></td>
+            </tr>
+          </table>
+          <p class="chi">創作者自白</p>
+          <p class="eng">Artist’s Statement</p>
+          <p class="chi">&nbsp;</p>
+          <p class="chi lh">城市內，大家似乎每天過著正常的日子，對社會的安定與繁榮都很滿意，但其實人們都知道城市只有虛構的安定。面對這個虛幻的安定，我們卻視而不見，任由它——紅月亮——懸在城市上空，一直以來，沒有人感到詫異。
+</p>
+          <p class="eng lh">Everyone seems to live normally in the city. We are satisfied with the stable and prosperous society. However we all notice that there is an elephant in the room, allowing it, the red moon, to be hung in the sky without any surprise. </p>
+        </div>
+        <div class="right-div">
+          <h4 class="chi">作品</h4>
+          <h4 class="eng">Artwork</h4>
+          <ul class="student-work-u">
+            <li lsrc="Img/Artwork_1.gold/s125.gif"><a href="Img/Artwork_1.gold/s125.gif" data-lightbox="student-work" idx="1" student="周立進" work="又是老樣子的一天" student-e="CHOW Lap-chun" work-e="Another Ordinary Day"><div class="img-frame"><div></div></div></a></li>
+          </ul>
+        </div>
+        <div style="clear:both"></div>
+      </div>
+    </div>
+    <div style="clear:both"></div>
+    <div class="footer">
+      <p class="footer-eng">2015 &copy; Education Bureau, The Government of the Hong Kong Special Administrative Region (HKSAR). All Rights Reserved.</p>
+      <p class="footer-chi">2015 &copy; 本網頁版權屬香港特別行政區教育局所有。</p>
+    </div>
+  </div>
+<script>
+$(document).ready(function (){
+  $("li").each(function(){
+    var obj_li=$(this).find("a>div>div");
+    var rw=parseInt(obj_li.css("width"));
+    var rh=parseInt(obj_li.css("height"));
+    var img=new Image();
+    img.src=$(this).attr("lsrc");
+    img.onload=function(){
+      var l,t;
+      var w=img.width;
+      var h=img.height;
+      if(w>rw){
+        h=h/w*rw;
+        w=rw;
+      }
+      if(h>rh){
+        w=w/h*rh;
+        h=rh;
+      }
+      l=(rw-w)/2;
+      t=(rh-h)/2;
+      obj_li.html("<img src=\"" + img.src + "\" style=\"width:" + w + "px;height:" + h + "px; position:relative;left:" + l + "px;top:" + t + "px\"/>");
+    };
+  });
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>SSSE</title>
+<link media="screen" type="text/css" rel="stylesheet" href="css/home.css"></link>
+<link media="screen" type="text/css" rel="stylesheet" href="css/lightbox.css"></link>
+<script src="js/jquery-1.11.3.min.js"></script>
+<script src="js/main.js"></script>
+<script src="js/lightbox.js"></script>
+<link media="screen" type="text/css" rel="stylesheet" href="js/video-js/video-js.css"></link>
+<script src="js/video-js/video.js"></script>
+</head>
+<body>
+  <div class="background-div"><img src="Img/background.png" /></div>
+  <div class="container">
+    <div class="header">
+      <div class="back-div"><a href="media_art.html"><img src="Img/back.jpg" /></a></div>
+    </div>
+    <div class="menu-left">
+      <div class="menu-item" id="menu-id1" onclick="window.location.href='index.html';" onmouseover="$(this).css('background-color','#eee')" onmouseout="$(this).css('background-color','transparent')">
+        <p class="chi">展覽簡介</p><p class="eng">Introducion</p>
+      </div>
+      <div class="menu-item" id="menu-id2" onclick="window.location.href='golden_prize.html';" onmouseover="$(this).css('background-color','#eee')" onmouseout="$(this).css('background-color','transparent')">
+        <p class="chi">金獎</p><p class="eng">Gold Prize</p>
+      </div>
+      <div class="menu-item" id="menu-id3" onclick="window.location.href='silver_prize.html';" onmouseover="$(this).css('background-color','#eee')" onmouseout="$(this).css('background-color','transparent')">
+        <p class="chi">銀獎</p><p class="eng">Silver Prize</p>
+      </div>
+      <div class="menu-item menu-item-active" id="menu-id4" onclick="window.location.href='certificate.html';">
+        <p class="chi">嘉許狀</p><p class="eng">Certificate of Merit</p>
+      </div>
+      <div class="menu-item" id="menu-id5" onclick="window.location.href='memories.html';" onmouseover="$(this).css('background-color','#eee')" onmouseout="$(this).css('background-color','transparent')">
+        <p class="chi">珍貴時刻</p><p class="eng">Memories</p>
+      </div>
+    </div>
+    <div class="contents">
+      <div class="workinfo">
+        <div class="left-div">
+          <h1 class="chi">林巧融</h1>
+          <h1 class="eng">LAM Hau-Yung Amanda</h1>
+          <p class="chi">&nbsp;</p>
+          <table border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="120"><p class="chi">年齡/Age</p><p class="chi">&nbsp;</p></td>
+              <td><p class="eng">18</p><p class="chi">&nbsp;</p></td>
+            </tr>
+            <tr>
+              <td><p class="chi">參展學校</p><p class="eng">School</p><p class="chi">&nbsp;</p></td>
+              <td><p class="chi">佛教善德英文中學</p><p class="eng">Buddhist Sin Tak College</p><p class="chi">&nbsp;</p></td>
+            </tr>
+            <tr>
+              <td><p class="chi">作品主題</p><p class="eng">Topic</p><p class="chi">&nbsp;</p></td>
+              <td><p class="chi">平等戀愛</p><p class="eng">Love Equality</p><p class="chi">&nbsp;</p></td>
+            </tr>
+            <tr>
+              <td><p class="chi">指導老師</p><p class="eng">Teacher</p><p class="chi">&nbsp;</p></td>
+              <td><p class="chi">歐兆偉</p><p class="eng">AU Siu-wai</p><p class="chi">&nbsp;</p></td>
+            </tr>
+          <tr><td><p class="chi">類別</p><p class="eng">Category</p><p class="chi">&nbsp;</p></td><td><p class="chi">媒體藝術</p><p class="eng">Media Art</p><p class="chi">&nbsp;</p></td></tr></table>
+        </div>
+        <div class="right-div">
+          <h4 class="chi">作品</h4>
+          <h4 class="eng">Artwork</h4>
+          <ul class="student-work-u">
+            <li lsrc="Img/Artwork_3.Merit/MEDIA/S107-12.png"><a href="javascript:js_op('videos/S107-12.mp4',640,360)"><div class="img-frame"><div></div></div></a></li>
+          </ul>
+        </div>
+        <div style="clear:both"></div>
+      </div>
+    </div>
+    <div style="clear:both"></div>
+    <div class="footer">
+      <p class="footer-eng">2015 &copy; Education Bureau, The Government of the Hong Kong Special Administrative Region (HKSAR). All Rights Reserved.</p>
+      <p class="footer-chi">2015 &copy; 本網頁版權屬香港特別行政區教育局所有。</p>
+    </div>
+  </div>
+<script>
+$(document).ready(function (){
+  $("li").each(function(){
+    var obj_li=$(this).find("a>div>div");
+    var rw=parseInt(obj_li.css("width"));
+    var rh=parseInt(obj_li.css("height"));
+    var img=new Image();
+    img.src=$(this).attr("lsrc");
+    img.onload=function(){
+      var l,t;
+      var w=img.width;
+      var h=img.height;
+      if(w>rw){
+        h=h/w*rw;
+        w=rw;
+      }
+      if(h>rh){
+        w=w/h*rh;
+        h=rh;
+      }
+      l=(rw-w)/2;
+      t=(rh-h)/2;
+      obj_li.html("<img src=\"" + img.src + "\" style=\"width:" + w + "px;height:" + h + "px; position:relative;left:" + l + "px;top:" + t + "px\"/>");
+    };
+  });
+});
+</script>
+
+<div id="TB_window" style="position:absolute; top:50%; left:50%; width: 640px;height: 360px; margin-left:-320px;margin-top:-180px; display: none;z-index:2147483647">
+  <video id="popup-video" class="video-js vjs-default-skin" controls preload="auto">
+    <source src="" type='video/mp4' />
+    <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
+  </video>
+</div>
+<div id="TB_mask" style="filter:alpha(opacity=30);-moz-opacity:0.5;opacity:0.5;background-color:#000000;position:absolute;left:0px;top:0px;width:100%;height:300%;z-index:2147483646;display:none" onclick="js_op_close(false)"></div>
+
+<script>
+function js_op_close(reload){
+	var player=videojs('popup-video');
+	player.pause();
+	$("#TB_mask").css("display",'none');
+	$("#TB_window").css("display",'none');
+	$("#TB_window2").css("display",'none');
+	if(reload){
+		location.reload();
+	}
+}
+function js_op(url,w,h){
+	$("#TB_mask").css("display",'block');
+	var player=videojs('popup-video');
+	player.src({ type: "video/mp4", src: url });
+  videojs("popup-video", {}, function(){
+	// Player (this) is initialized and ready.
+    $("#TB_window").css("width",w+"px");
+    $("#TB_window").css("height",h+"px");
+    $("#TB_window").css("margin-left",(-w/2)+"px");
+    $("#TB_window").css("margin-top",(-h/2)+"px");
+    $(".video-js").css("width",w+"px");
+    $(".video-js").css("height",h+"px");
+	$(".vjs-big-play-button").css("margin","auto");
+	$(".vjs-big-play-button").css("top",((h-84)/2)+"px");
+	$(".vjs-big-play-button").css("position","relative");
+  });
+	$("#TB_window").css("display",'block');
+}
+</script>
+</body>
+</html>

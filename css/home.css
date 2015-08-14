@@ -1,0 +1,374 @@
+body {
+  margin: 0;
+}
+p {
+  margin:0;
+  padding:0;
+}
+p.chi {
+  font-size: 12px;
+  font-weight: bold;
+  font-family: "PMingLiU", "SimSun";
+}
+p.eng {
+  font-size: 12px;
+  font-weight: normal;
+  font-family: "arial";
+}
+p.grey {
+  color: grey;
+}
+p.table-head {
+  color: rgb(230,70,53);
+}
+p.lh {
+  line-height: 1.4;
+}
+h1.chi {
+  margin:0;
+  font-size: 22px;
+  font-weight: 800;
+  color: rgb(230,70,53);
+  font-family: "PMingLiU", "SimSun";
+}
+h1.eng {
+  margin:0;
+  font-size: 22px;
+  font-weight: 600;
+  color: rgb(230,70,53);
+  font-family: "arial";
+}
+h2.chi {
+  margin:0;
+  font-size: 20px;
+  font-weight: 800;
+  color: rgb(77,169,48);
+  font-family: "PMingLiU", "SimSun";
+}
+h2.eng {
+  margin:0;
+  font-size: 20px;
+  font-weight: normal;
+  color: rgb(77,169,48);
+  font-family: "arial";
+}
+h3.chi {
+  margin:0;
+  font-size: 12px;
+  font-weight: bold;
+  color: rgb(175,16,90);
+  font-family: "PMingLiU", "SimSun";
+}
+h3.eng {
+  margin:0;
+  font-size: 12px;
+  font-weight: normal;
+  color: rgb(175,16,90);
+  font-family: "arial";
+}
+h4.chi {
+  margin:0;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "PMingLiU", "SimSun";
+}
+h4.eng {
+  margin:0;
+  font-size: 20px;
+  font-weight: normal;
+  font-family: "arial";
+}
+
+ul {
+  list-style: outside none none;
+  padding: 0;
+  margin: 0;
+}
+
+td {
+  vertical-align: top;
+}
+
+/* background */
+.background-div {
+  position: absolute;
+  left: -240px;
+  top: -65px;
+  z-index: -10;
+  width: 100%;
+}
+
+/* back button */
+.back-div {
+  position: relative;
+  left: 880px;
+  top: 300px;
+  z-index: 100;
+}
+
+/* container */
+.container {
+  width:1000px;
+  margin:auto;
+  padding:0;
+}
+
+/* header */
+.header {
+  width:960px;
+  height: 330px;
+  margin:auto;
+}
+
+/* menu-left */
+.menu-left {
+  width:200px;
+  float:left;
+  margin-bottom: 11px;
+}
+.menu-left>div {
+  cursor:pointer;
+}
+.menu-left>div>p:first-child {
+  padding: 12px 20px 0;
+}
+.menu-left>div>p:first-child+p {
+  padding: 3px 20px 12px;
+}
+.menu-left p {
+  color: #000;
+  line-height:1;
+}
+.menu-item {
+  height: 50px;
+}
+.menu-item-active {
+  background-color: #eee;
+}
+
+/* contents */
+.contents {
+  width:800px;
+  height:560px;
+  float:right;
+  margin-bottom: 11px;
+}
+
+/* exhibition-intro (exhibition-details) */
+.exhibition-intro p {
+  line-height: 1.58;
+  margin-top: 8px;
+  text-align: justify;
+}
+.exhibition-intro .chinese-div h2 {
+  margin-bottom: 12px;
+}
+.exhibition-intro .english-div h2 {
+  margin-bottom: 12px;
+}
+.exhibition-intro .chinese-div {
+  width: 300px;
+  padding: 20px 0 20px 20px;
+  float: left;
+}
+.exhibition-intro .chinese-div h2 {
+  letter-spacing: 2px;
+}
+.exhibition-intro .chinese-div h3 {
+  letter-spacing: 2px;
+}
+.exhibition-intro .chinese-div p {
+  letter-spacing: 2px;
+}
+.exhibition-intro .english-div {
+  width: 440px;
+  padding: 20px;
+  float: right;
+}
+.exhibition-intro .english-div h3 {
+  letter-spacing: 0px;
+}
+.exhibition-intro .english-div p {
+}
+.exhibition-intro td {
+  vertical-align: top;
+}
+
+/* worklist */
+.worklist .chinese-div h2 {
+  margin-bottom: 12px;
+}
+.worklist .english-div h2 {
+  margin-bottom: 12px;
+}
+.worklist .chinese-div {
+  width: 300px;
+  padding: 20px 0 0 20px;
+  float: left;
+}
+.worklist h2.chi {
+  letter-spacing: 2px;
+}
+.worklist p.chi {
+  letter-spacing: 2px;
+}
+.worklist .english-div {
+  width: 440px;
+  padding: 20px 20px 0 20px;
+  float: right;
+}
+
+.worklist-u {
+  padding: 0 0 20px 20px;
+}
+
+.worklist-u li {
+  width: 180px;
+  height: 180px;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+.worklist-u .img-frame {
+  width: 180px;        /* 如果加了border要減掉border的寬度 */
+  height: 180px;       /* 同上 */
+  background-color:#eee;
+}
+.worklist-u .img-frame div {
+  width: 160px;
+  height: 160px;
+  padding: 10px;
+}
+
+/* workinfo */
+.workinfo {
+  padding: 20px;
+}
+.workinfo .left-div {
+  width: 450px;
+  margin-right: 30px;
+  float: left;
+}
+.workinfo .right-div {
+  width: 280px;
+  float: right;
+}
+.workinfo .chinese-div h2 {
+  margin-bottom: 12px;
+}
+.workinfo .english-div h2 {
+  margin-bottom: 12px;
+}
+.workinfo .chinese-div {
+  width: 300px;
+  padding: 20px 0 0 20px;
+  float: left;
+}
+.workinfo h2.chi {
+  letter-spacing: 2px;
+}
+.workinfo p.chi {
+  letter-spacing: 2px;
+}
+.workinfo .english-div {
+  width: 440px;
+  padding: 20px 20px 0 20px;
+  float: right;
+}
+
+.workinfo li {
+  width: 280px;
+  height: 280px;
+  margin-bottom: 20px;
+}
+.workinfo .img-frame {
+  width: 279px;        /* 如果加了border要減掉border的寬度 */
+  height: 279px;       /* 同上 */
+  border: 1px solid #eee;
+}
+.workinfo .img-frame div {
+  width: 279px;
+  height: 279px;
+  padding: 0px;
+}
+
+.workinfo h1, h4 {
+  line-height: 1.4;
+}
+
+.workinfo .right-div ul {
+  margin-top: 10px;
+}
+
+/* certificate */
+.certificate {
+  width: 760px;
+  padding: 20px;
+}
+.certificate>div:first-child {
+  width: 300px;
+  float: left;
+}
+.certificate>div:first-child+div {
+  width: 460px;
+  float: left;
+}
+.category-div {
+  margin-top: 15px;
+}
+.category-div li:first-child~li {
+  margin-left: 20px;
+}
+.category-div .img-li li {
+  float: left;
+}
+.category-div a img {
+  width: 175px;
+  height: 175px;
+}
+.category-div .info-div {
+  margin-top: 5px;
+}
+
+/* sidelights */
+.sidelights {
+  width: 780px;
+  padding: 20px 0 20px 20px;
+}
+.sidelights>div:first-child {
+  width: 312px;
+  float: left;
+}
+.sidelights>div:first-child+div {
+  width: 468px;
+  float: left;
+}
+
+.sidelights ul {
+  margin-top: 20px;
+}
+.sidelights ul li {
+  width: 136px;
+  height: 136px;
+  margin-bottom: 20px;
+  float: left;
+}
+.sidelights .margin-right-20 {
+  margin-right: 20px;
+}
+.sidelights ul li img {
+  width: 136px;
+  height: 136px;
+}
+
+/* footer */
+.footer-chi {
+  font-size:11px;
+  font-family: "PMingLiU", "SimSun";
+  text-align:right;
+}
+.footer-eng {
+  font-size:11px;
+  font-family: "arial";
+  text-align:right;
+}

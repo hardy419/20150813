@@ -1,0 +1,11 @@
+          <li lsrc="Img/Artwork_3.Merit/中國書畫/##file##"><a href="artwork_c##index##.html"><div class="img-frame"><div></div></div></a></li>
+          <li>
+            <p class="chi">##name##</p>
+            <p class="eng">##name_e##</p>
+            <p class="chi">&nbsp;</p>
+            <p class="chi">##school##</p>
+            <p class="eng">##school_e##</p>
+            <p class="chi">&nbsp;</p>
+            <p class="chi">##work##</p>
+            <p class="eng">##work_e##</p>
+          </li>

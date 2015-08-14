@@ -1,0 +1,20 @@
+S027	英皇書院	King’s College	彭智鋒	PANG Ivo	13	體育運動	Sports	梅嘉慧	MUI Ka-wai
+S033	中華基督教會桂華山中學	C.C.C. Kwei Wah Shan College	李長源	LI Cheung-yuen	19	蝕	Erode	黄麗燕	WONG Lai-yin
+S034	中華基督教會基元中學	CCC Kei Yuen College	陳可欣	CHAN Ho-yan	17	鉅變	Great Change	朱惠玲	CHU Wai-ling
+S034	中華基督教會基元中學	CCC Kei Yuen College	李嘉玲	LI Ka-ling	18	突破	Breakthrough	朱惠玲	CHU Wai-ling
+S050	聖傑靈女子中學	St. Catharine's School For Girls (Kwun Tong)	杜家渝	TO Ka-yu	17	《擺奧巴馬上神枱》	To play a joke on Obama	陳玉嬋	CHAN yuk-sim
+S055	港澳信義會慕德中學	HKMLC Queen Maud Secondary School	陳鈺淳	CHAN Yuk-shun	17	轟!! 英雄大鬧倫敦	Attacked by the superheros!	陳啓新	CHAN Kai-san Steve
+S059	保良局姚連生中學	Po Leung Kuk Yao Ling Sun College	江曉僑	JIANG Xiao-qiao	18	假想	Imagination	曾偉權	TSANG Wai-kuen
+S064	獅子會中學	Lions College	容詠琪	LONG Wing-ki	18	整容國	——	張蓓瑩	CHONG Pui-ying
+S072	香港浸會大學附屬學校王錦輝中小學	HKBU Affiliated School Wong Kam Fai Secondary & Primary School	張芷晴	CHEUNG Tze-ching	18	專屬我的巧克力	The Chocolates To Me	羅醒楷	LAW Sing-kai 
+S078	保良局馬錦明中學	Po Leung Kuk Ma Kam Ming College	賴美琳	LAI Mei-lam	16	書中自有	Inside the book	陳靖豐	CHAN Ching-fung
+S079	中聖書院	China Holiness College	廖奕樂	LIU Yik-lok	18	慾貌	Faces of desire	張麗明	CHEUNG Lai-ming
+S095	伊利沙伯中學舊生會中學	Queen Elizabeth School Old Students’ Association Secondary School	歐煒敏	AU Wai-man	18	大牌檔	‘Tai Pai Dong’	梁德賢	LEUNG Tak-yin Billy
+S098	中華基督教會基順學校	CCC Kei Shun Special School	莊曉豐	CHONG Hiu-fung	18	大力膠布臨《麻姑仙壇記》	Alternative Calligraphy	伍國平	WU Kwok-ping
+S102	慈幼英文學校	Salesian English School	尤俊明	YAU Chun-ming 	16	筲箕灣	Shau Kei Wan	陳少南	TAN Siu-nam
+S105	五育中學	Ng Yuk Secondary School	林馨雨	LAM Hing-yu	17	救命	HELP!	張玉菁	CHEUNG Yuk- ching 
+S108	香港管理專業協會李國寶中學	HKMA David Li Kwok Po College	李配志	LI Pui-chi	17	意境	Artistic conception	黎倩如	LAI Sin-yu
+S112	九龍真光中學	Kowloon True Light School	馮葦殷	FUNG Wai-yan	17	百家布	Quilt	黃月鳳	WONG Yuet-fung
+S132	馬鞍山崇真中學	Ma On Sha Tsung Tsin Secondary School	陳樂瑤	CHAN Lok-yiu	16	北風與太陽	The North Wind and the Sun	陳浩波	CHAN Ho-po
+S136	荃灣聖芳濟中學	St. Francis Xavier’s School, Tsuen Wan	盧漢泉	LO Hon-chuen Jonathan	17	普教中下的白老鼠學生	The Lab rats under the Scheme of using Putonghua to teach 	李慧芳、黃穎智	LEE Wai-fong,  WONG Wing-chi
+S142	筲箕灣官立中學	Shau Kei Wan Government Secondary School	何文君	HO Man-kwan	17	史上最差相處秘籍	The Worst Communication Codex	鄭煥華、 林旭艷	CHENG Woon-wah , LAM Yuk-yim
