@@ -1,4 +1,4 @@
-          <li lsrc="Img/Artwork_3.Merit/中國書畫/##file##"><a href="artwork_c##index##.html"><div class="img-frame"><div></div></div></a></li>
+          <li lsrc="##file_s##"><a href="##prefix####index##.html"><div class="img-frame"><div></div></div></a></li>
           <li>
             <p class="chi">##name##</p>
             <p class="eng">##name_e##</p>

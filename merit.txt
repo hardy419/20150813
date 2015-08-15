@@ -1,94 +1,26 @@
-S001	仁濟醫院林百欣中學	Yan Chai Hospital Lim Por Yen Secondary School	陳嘉研	CHAN Ka-yin	18	留住昨天	——	楊曉慧	YEUNG Hiu-wai	
-S005	賽馬會體藝中學	Jockey Club Ti-I College	周婕妤	CHAU Jaquelee Chit-yu	16	牛	Cows	謝小華	TSE Siu-wah	
-S005	賽馬會體藝中學	Jockey Club Ti-I College	黃宇軒	WONG Yu-hin Jeff	18	凡事樂觀面對	Be optimistic	林小儀	LAM Siu-yi	
-S008	聖公會白約翰會督中學	SKH Bishop Baker Secondary School	劉家俊	LAU Ka-chun	17	我畫我自已	I draw myself	徐鳳明	CHUI Fung-ming	
-S010	旅港開平商會中學	Hoi Ping Chamber of Commerce Secondary School	袁子軒	Victor YUEN Tsz-hin	17	抉擇	Choices	朱巧英	CHU Hau-ying	
-S014	新亞中學	New Asia Middle School	連梓霞	LIN Tsz-ha	17	香港—水貨客	Hong Kong - parallel goods traders	呂君研	LUI Kwan-yin	
-S014	新亞中學	New Asia Middle School	劉絲絲	LAU Sze-sze	18	棋盤	Chessboard	呂君研	LUI Kwan-yin	
-S015	中華基督教會全完中學	CCC Chuen Yuen College	郭文棣	KWOK Man-tai	18	高速攝影	High-Speed Photography	蕭凱寧	SIU Hoi-ning	
-S019	粉嶺禮賢會中學	Fanling Rhenish Church Secondary School	李采瑤	LEE Tsoi-yiu	17	賭	Gamble	謝自強	TSE Chi-keung	
-S019	粉嶺禮賢會中學	Fanling Rhenish Church Secondary School	林德孝	LAM Tak-hau	18	環保	Environmental	陳凱納	CHAN Hoi-nap	
-S020	樂善堂顧超文中學	Lok Sin Tong Ku Chiu Man Secondary School	梁文軒	LEUNG Man-hin	17	家	HOME	葉郁青	YIP Yuk-ching	
-S021	聖士提反書院	St. Stephen's College	馮朗庭	FUNG Long-ting	17	音．樂	Sensation of Music	古黃高貝	KOO WONG Ko-pui	
-S024	迦密唐賓南紀念中學	Carmel Bunnan Tong Memorial Secondary School	郭輝樺	KWOK Fai-wa	17	癮君子	The Addict	蘇逸敏	SO Yat-man	
-S031	金巴崙長老會耀道中學	Cumberland Presbyterian Church Yao Dao Secondary School	何梓溶	HO Tsz-yung	16	孝道	Filial piety	溫佩欣	WAN Pui-yan	
-S031	金巴崙長老會耀道中學	Cumberland Presbyterian Church Yao Dao Secondary School	周穎儀	CHOW Wing-yee 	17	港女字體設計	“KONG GIRLS” font design	崔家慧	CHUI Gar-wai	
-S034	中華基督教會基元中學	CCC Kei Yuen College	黃泳燕	WONG Wing-yin	17	水晶箱	Box of hope	朱惠玲	CHU Wai-ling	
-S035	將軍澳官立中學	Tseung Kwan O Government Secondary School	丘栢妍	YAU Pak-in	17	「樓」情	City love?	黃靜怡	WONG Ching-yi	
-S035	將軍澳官立中學	Tseung Kwan O Government Secondary School	梁季賢	LIANG Jixian	18	人見人愛	Everybody’s darling	黃靜怡	WONG Ching-yi	
-S041	嶺南衡恰紀念中學	Lingnan Hang Yee Memorial Secondary School	李嘉儀	LEE Ka-yee	17	追尋夢想—傘子革命	“Catching the dream”–Yellow umbrella revolution	彭嘉恩	PANG Ka-yan	
-S041	嶺南衡恰紀念中學	Lingnan Hang Yee Memorial Secondary School	郭家盈	KWOK Kai-ying	17	終點	The End	彭嘉恩	PANG Ka-yan	
-S043	龍翔官立中學	Lung Cheung Government Secondary School	謝鈺瑩	TSE Yuk-ying	17	鹿地上的繁華	——	李偉傑	LEE Wai-kit	
-S046	威靈頓教育機構張沛松紀念中學	Wellington Educational Organisation Chang Pui Chung Memorial School	石浠瑜	SHEK Hei-yu	17	「心」林	Forest	許鳳琪	HUI Fung-kei	
-S047	匡智獅子會晨崗學校	Hong Chi Lions Morninghill School	余嘉謙	Kevin BRUCE	17	大自然的美！	Nature	關翠姿	KWAN Tsui-chi	
-S048	拔萃男書院	Diocesan Boys' School	王希楠	WONG Hei-nam	14	龍城今昔	Kowloon Walled City: Past and Now	梁子光	T. K. LEUNG	
-S055	港澳信義會慕德中學	HKMLC Queen Maud Secondary School	張澄匡	CHEUNG Ching-hong	17	湧現	Influx	譚淑菁	TAM Shuk-ching	
-S057	聖公會林裘謀中學	SKH Lam Kau Mow Secondary School	袁天虹	YUAN Tian-hong	17	猜：他們是誰？	Guess: Who They Are?	郭筱怡	KWOK Siu-yee	
-S057	聖公會林裘謀中學	SKH Lam Kau Mow Secondary School	湯巧盈	TONG Hau-ying	17	流逝	Elapse	郭筱怡	KWOK Siu-yee	
-S059	保良局姚連生中學	Po Leung Kuk Yao Ling Sun College	葉泳兒	YIP Wing-yi	17	拜金	—	呂雪儀	LUI Suet-yi	
-S059	保良局姚連生中學	Po Leung Kuk Yao Ling Sun College	鄭浩然	CHENG Ho-yin	16	貧、富	Wealth	呂雪儀	LUI Suet-yi	
-S068	沙田崇真中學	Shatin Tsung Tsin Secondary School	麥穎欣	MAK Wing-yan	17	港工藝	Traditional Crafts In Hong Kong	李思珍	LI See-chun	
-S069	聖保祿學校	St. Paul's Convent School (Secondary Section)	何明昕	HO Ming-yan Charmain	17	時代的蛻變	Transforming to Modernity	吳珈蔚	Gloria NG	
-S069	聖保祿學校	St. Paul's Convent School (Secondary Section)	黃嘉琳	Katherine WONG	17	獨特性	Uniqueness	吳珈蔚	Gloria NG	
-S069	聖保祿學校	St. Paul's Convent School (Secondary Section)	黃穎彤	Wincy WONG	18	蛻變 - 桌布	Metamorphosis-Table Cloth	吳珈蔚	Gloria NG	
-S069	聖保祿學校	St. Paul's Convent School (Secondary Section)	黃穎彤	Wincy WONG	18	蛻變 - 窗簾 	Metamorphosis-Curtain	吳珈蔚	Gloria NG	
-S071	中華基督教會馮梁結紀念中學	CCC Fung Leung Kit Memorial Secondary School	黄睿嘉	WONG Michelle	18	悲慘•生活	Dog’s Life	郭嘉鴻	KWOK-Ka hung              	
-S072	香港浸會大學附屬學校王錦輝中小學	HKBU Affiliated School Wong Kam Fai Secondary & Primary School	鄧曉琪	TANG Hiu-ki	17	無線得得B	TVBabies	羅醒楷	LAW Sing-kai	
-S072	香港浸會大學附屬學校王錦輝中小學	HKBU Affiliated School Wong Kam Fai Secondary & Primary School	黎海笙	LAI Hoi-sang	17	對立位置	THE (OP)POSITION	羅醒楷	LAW Sing-kai	
-S073	沙田培英中學	Shatin Pui Ying College	梁卓詩	Chersie LEUNG	17	抓緊色彩	Catch The Colour	王玲	WONG Ling	
-S073	沙田培英中學	Shatin Pui Ying College	鄭詩朗	CHENG Sze-long	17	繁榮與代價	Prosperity and Cost	王玲	WONG Ling	
-S073	沙田培英中學	Shatin Pui Ying College	周駿成	CHOW Chun-shing	17	戰爭與和平	War and Peace	王玲	WONG Ling	
-S074	金文泰中學	Clementi Secondary School	葉婧怡	IP Jing-yee	17	人魚王子	Mermaid Prince	鄧笑琴	TANG Siu-kam, Alix	
-S074	金文泰中學	Clementi Secondary School	葉婧怡	IP Jing-yee	17	樂園仙蹤	Paradise	鄧笑琴	TANG Siu-kam, Alix	
-S075	聖士提反堂中學	St. Stephen's Church College	張卓鏗	CHEUNG Cheuk-hang	17	避無可避	Unavoidable	姚頴彤	YIU Wing-tung	
-S077	路德會西門英才中學	Gertrude Simon Lutheran College	郭本堯	KWOK Pun-yiu	19	時間軸上的我	Being on time axist	招鳳萍	JIU Fung-ping	
-S078	保良局馬錦明中學	Po Leung Kuk Ma Kam Ming College	袁晴希	YUEN Ching-hei	17	蘋果啟示錄	The Apple Revelation	陳靖豐	CHAN Ching-fung	
-S078	保良局馬錦明中學	Po Leung Kuk Ma Kam Ming College	曾映楠	TSANG Ying-nam	17	港女四式	HK Girls’ Style	陳靖豐	CHAN Ching-fung	
-S079	中聖書院	China Holiness College	廖奕樂	LIU Yik-lok	18	蒙羅麗莎的慾望	Desire of Mona Lisa	張麗明	CHEUNG Lai-ming	
-S080	寶血女子中學	Precious Blood Secondary School	陸嘉瑜	LUK Ka-yu	17	肥仔誘惑	——	黃佩雯	WONG Pui-man	
-S081	佛教茂峰法師紀念中學	Buddhist Mau Fung Memorial College	劉建鋒	LAU Kin-fung	19	贏在起跑線	——	郭少鳳	KWOK Siu-fung	
-S083	聖保羅書院	St. Paul's College	黎銘揚	LAI Ming-yeung	17	未完整的木偶	Incomplete Puppet	李妙嫦	LEE Miu-sheung	
-S085	恩主教書院	Valtorta College	李樂霖	LI Lok-lam	17	月晷	Moon Dial	廖家汶	LIU Ka-man	
-S086	佛教孔仙洲紀念中學	Buddhist Hung Sean Chau Memorial College	鄭銘華	CHENG Ming-wah	18	罪源	Original sin	廖彧姿	LIU Yuk-chi	
-S090	明愛粉嶺陳震夏中學	Caritas Fanling Chan Chun Ha Secondary School	符曉蕾	FU Hiu-lui ALYSSA MARIE	16	午夜夢境	Midnight Dream	郭嘉蔓	KWOK Ka-man	
-S091	廖寶珊紀念書院	Liu Po Shan Memorial College	陳曾艷	CHEN Zeng-yan	13	花店的艱辛	Hardship for a florist	彭惠芳	PANG Wai-fong	
-S094	民生書院	Munsang College	馬顥恩	MA Ho-yan	17	轉變	Transformation	彭漪琪	PANG Yi-ki Annette	
-S094	民生書院	Munsang College	蘇藹襦	SO Oi-yu	17	金婚	Golden Jubilee 	彭漪琪	PANG Yi-ki Annette	
-S094	民生書院	Munsang College	陳家敏	CHAN Ka-man	17	標纖	Labelling	彭漪琪	PANG Yi-ki Annette	
-S094	民生書院	Munsang College	謝晞琳	TSE Hei-lam	17	童話慘劇	Fairy Tales Tragedies	彭漪琪	PANG Yi-ki Annette	
-S094	民生書院	Munsang College	陳極彰	CHAN Kik-cheung	17	家常便飯	Homeade	彭漪琪	PANG Yi-ki Annette	
-S095	伊利沙伯中學舊生會中學	Queen Elizabeth School Old Students' Association Secondary School	黃青宇	WONG Ching-yu	17	夢想	Dream	梁德賢	LEUNG Tak-yin Billy	
-S096	新生命教育協會呂郭碧鳳中學	NLSI Lui Kwok Pat Fong College	蔣卓瑩	TSEUNG Cheuk-ying	20	許願	Make a Wish	呂敏兒	LUI Man-yi	
-S097	寶安商會王少清中學	Po On Commercial Association Wong Siu Ching Secondary School	李海僖	LEE Hoi-hei	14	百變排檔	Fixed-pitch Hawker 	鄺啟德	KWONG Kai-tak	
-S098	中華基督教會基順學校	CCC Kei Shun Special School	劉成焯	LAU Shing-cheuk	14	人像畫研習	Portrait Studies	伍國平	WU Kwok-ping	
-S098	中華基督教會基順學校	CCC Kei Shun Special School	張顯楊	CHEUNG Hin-yeung	14	無題	Untitled	伍國平	WU Kwok-ping	
-S100	德蘭中學	St. Teresa Secondary School	葉詩雅	YIP Sze-nga Michelle	17	尋找自由的空間	Find freedom in our world	黄翠芬	WONG Chui-fan Priscilla	
-S100	德蘭中學	St. Teresa Secondary School	蕭美	SIU Mei	17	雨傘運動	——	關劍花	KWAN Kim-fa	
-S103	香港聖公會何明華會督中學	HKSKH Bishop Hall Secondary School	王家樂	WONG Ka-lok	16	窩深	The Hidden Home	元潔心	YUEN Kit-sum	
-S104	林大輝中學	Lam Tai Fai College	黃皓軒	WONG Ho-hin	16	人生朱古力	Life Chocolate	王小帆	Camille WANG	
-S104	林大輝中學	Lam Tai Fai College	李司朗	LEE Sze-long	17	狂喜	Ecstasy	王小帆	Camille WANG	
-S105	五育中學	Ng Yuk Secondary School	林馨雨	LAM Hing-yu	17	看圖說故事	STORIES FROM PICTURES	張玉菁	CHEUNG Yuk-ching	
-S105	五育中學	Ng Yuk Secondary School	江佩宜	KONG Pui-yi	17	憤書坑愚	——	張玉菁	CHEUNG Yuk-ching	
-S105	五育中學	Ng Yuk Secondary School	黄梓淇	WONG Tsz-ki	17	——	HEALTHY FOOD?	張玉菁	CHEUNG Yuk-ching	
-S106	靈糧堂怡文中學	Ling Liang Church E Wun Secondary School	彭浩恩	PANG Ho-yan	17	沉與擴散	Sink	朱珐	CHU Fat	
-S107	佛教善德英文中學	Buddhist Sin Tak College	許瑩瑩	HUI Ying-ying	17	「奴」工	The slave	歐兆偉	AU Siu-wai	
-S107	佛教善德英文中學	Buddhist Sin Tak College	陳澤豐	CHAN Chak-fung	18	士多	Store	歐兆偉	AU Siu-wai	
-S107	佛教善德英文中學	Buddhist Sin Tak College	林巧融	LAM Hau-Yung Amanda	18	平等戀愛	Love Equality	歐兆偉	AU Siu-wai	
-S109	聖公會李福慶中學	SKH Li Fook Hing Secondary School	鄧嘉欣	TANG Ka-yan	18	春秧街市	Chun Yeung Street Market	譚嘉女	TAM Ka-nui	
-S113	中華基督教會基朗中學	CCC Kei Long College	潘嘉麗	Eliza POON	18	森•林•木	Vanishing forest	曾婉眉	TSANG Yuen-mei	
-S116	天主教崇德英文書院	Shung Tak Catholic English College	吳海琪	NG Hoi-ki	17	貓	Cat	莊雅蕾	CHONG Ngai-lui	
-S116	天主教崇德英文書院	Shung Tak Catholic English College	黃智華	WONG Chi-wah	17	厭食症	Anorexia	莊雅蕾	CHONG Ngai-lui	
-S117	保良局李城璧中學	Po Leung Kuk Lee Shing Pik College	陳樂婷	CHAN Lok-ting	17	喧囂內的平靜	Tranquility in city	曾偉耀	TSANG Wai-yiu	
-S117	保良局李城璧中學	Po Leung Kuk Lee Shing Pik College	姚小倩	YAO Xiao-qian	18	婚姻：買婚	Marriage: Marketing Marriage	曾偉耀	TSANG Wai-yiu	
-S117	保良局李城璧中學	Po Leung Kuk Lee Shing Pik College	袁蕙恩	YUEN Wai-yan	18	回憶的種種香江細味	Nostalgic Hong Kong	曾偉耀	TSANG Wai-yiu	
-S122	中華基督教會銘基書院	CCC Ming Kei College	羅曉婷	LAW Hiu-ting	17	眼淚	Tear	張頴晶	CHEUNG Wing-jing	
-S128	高雷中學	Ko Lui Secondary School	鄒莉年	ZOU Linian	18	快餐多仔佛	SPOILED KIDS	徐國堅	TSUI Kwok-kin	
-S129	中華基督教會方潤華中學	CCC Fong Yun Wah Secondary School	何嘉宜	HO Ka-yi	17	最佳豬肉獎	Pork Prize	林堃娜	LAM Kwan-na	
-S130	世界龍岡學校劉皇發中學	Lung Kong WFSL Lau Wong Fat Secondary School	李娜	LEE Na	16	雨中奔跑的學生	——	鄧瑞貞	TANG Sui-ching, Crystal	
-S135	樂善堂余近卿中學	Lok Sin Tong Yu Kan Hing Secondary School	羅婉筠	LAW Yuen-kwan	16	環保天使	——	區穎詩	AU Wing-sze Valencia	
-S137	長沙灣天主教英文中學	Cheung Sha Wan Catholic Secondary School	鄧樂謙	TANG Le-qian Toby	17	閱讀風氣	The Joy of Reading	吳綺萍	NG Yee-ping Karen	
-S141	保祿六世書院	Pope Paul VI College	蔡玉茵	TSOI Yuk-yan	17	憶‧想	Childhood’s memories	張雅穎	Anita CHEUNG	
-S142	筲箕灣官立中學	Shau Kei Wan Government Secondary School	林卓賢	LAM Cheuk-yin	17	沉迷手機的結局	Digital Demise	鄭煥華	CHENG Woon-wah	林旭艷	LAM Yuk-yim	
-S142	筲箕灣官立中學	Shau Kei Wan Government Secondary School	游淑怡	YAU Shuk-yi	17	伴隨	Companion	鄭煥華	CHENG Woon-wah	林旭艷	LAM Yuk-yim 	
-S142	筲箕灣官立中學	Shau Kei Wan Government Secondary School	陳嫦玲	CHAN Sheung-ling	17	如魚得友	Friendship	鄭煥華	CHENG Woon-wah	林旭艷	LAM Yuk-yim	
-S142	筲箕灣官立中學	Shau Kei Wan Government Secondary School	余嘉文	YU Ka-man	17	四「德」	Virtues	鄭煥華	CHENG Woon-wah	林旭艷	LAM Yuk-yim	
+P008-7	1	天水圍循道衛理小學	Tin Shui Wai Methodist Primary School	歐陽雅雯	AO IEONG Nga-man	10		舞動水羅	Dance in Ink	廖桂英	LIU Kwai-ying, Jean	中國書畫	Chinese Painting and Calligraphy 
+P025-13	2	寶血會嘉靈學校	Ka Ling School of The Precious Blood	黃子昕	WONG Tsz-yan	6		水中仙子	Daffodils	---	---	中國書畫	Chinese Painting and Calligraphy 
+P028-11	3	聖方濟愛德小學	St. Francis of Assisi's Caritas School	蘇琬甯	SO Yuen-ning	9		秋意	Autumn	廖鳳嬌	LIU Fung-kiu	中國書畫	Chinese Painting and Calligraphy 
+P040-10	4	天主教博智小學	Price Memorial Catholic Primary School	鄧靜雯	TANG Ching-man	12		竹枝上的小鳥	Birds on the Bamboo	鄭雪雲, 廖凱婷	CHANG Suet-wan, LIU Hoi-ting	中國書畫	Chinese Painting and Calligraphy 
+P047-10	5	香港四邑商工總會陳南昌紀念學校	HKSYC&IA Chan Nam Chong Memorial School	羅溢朗	LAW Yat-long	7		朗朗吃果果	I Eat Fruits	曹芷瓊	CHAO Tsz-king	中國書畫	Chinese Painting and Calligraphy 
+P049-12	6	油蔴地天主教小學	Yaumati Catholic Primary School	張嘉恩	CHEUNG Ka-yan	10		陪伴	Mother Care	鄭秀韻	CHENG Sau-wan	中國書畫	Chinese Painting and Calligraphy 
+P067-1	7	嗇色園主辦可信學校	Ho Shun Primary School (Sponsored By Sik Sik Yuen)	梁維朗	LEUNG Wai-long	6		出走了! 四處跑!	Run in Different Ways!	潘鳳蓮	PUN Fung-lin	中國書畫	Chinese Painting and Calligraphy 
+P072-8	8	蘇浙小學	Kiangsu & Chekiang Primary School	陳芊妤	CHAN Chin-ue	8		有志者成（行書）	There is a Will, There is a Way  (Semi-cursive Script)	范成蕙	FAN Shing-wei	中國書畫	Chinese Painting and Calligraphy 
+P072-9	9	蘇浙小學	Kiangsu & Chekiang Primary School	張艾維	ZHANG Ai-wei	12		開卷有益（行書）	"Reading Makes a Full Man 
+(Semi-cursive Script)
+"	范成蕙	FAN Shing-wei	中國書畫	Chinese Painting and Calligraphy 
+P072-10	10	蘇浙小學	Kiangsu & Chekiang Primary School	鄭喬方	CHENG Kiu-fong, Jelly	11		不進則退  （行書）	Step Up or You Will Be Left Behind (Semi-cursive Script)	范成蕙	FAN Shing-wei	中國書畫	Chinese Painting and Calligraphy 
+P072-11	11	蘇浙小學	Kiangsu & Chekiang Primary School	陳靖堯	CHAN Ching-yiu	11		好學不倦（行書）	Be Studious (Semi-cursive Script)	范成蕙	FAN Shing-wei	中國書畫	Chinese Painting and Calligraphy 
+P072-12	12	蘇浙小學	Kiangsu & Chekiang Primary School	梁嘉煒	LIANG Jia-wei	10		發奮圖強（隸書）	Dedicated Work (Clerical Script)	范成蕙	FAN Shing-wei	中國書畫	Chinese Painting and Calligraphy 
+P076-6	13	聖公會榮真小學	S.K.H. Wing Chun Primary School	梁芷蕎	LEUNG Tsz-kiu	10		漁村風情	Fishing Village	邱佩詠	YAU Pui-wing	中國書畫	Chinese Painting and Calligraphy 
+P077-9	14	天主教聖安德肋小學	St. Andrew's Catholic Primary School	蕭嘉禧	SIU Ka-hei	10		鶴	Red-Crowned Crane	容鳳蓮	YUNG Fung-lin	中國書畫	Chinese Painting and Calligraphy 
+P084-2	15	香港培正小學	Pui Ching Primary School	余鎧琳	YU Hoi-lam, Rachel	11		學習壓力	I Hate Homework	陳家俊	CHAN Ka-chun	中國書畫	Chinese Painting and Calligraphy 
+P084-3	16	香港培正小學	Pui Ching Primary School	莊曉蝶	CHONG Hiu-tip	12		開學前一晚	The Night Before the First Day of School	陳家俊	CHAN Ka-chun	中國書畫	Chinese Painting and Calligraphy 
+P087-6	17	培僑書院	Pui Kiu College	李綽盈	LEE Chek-ying	8		小斑馬	Zebra	楊頌雅	YEUNG Chung-nga	中國書畫	Chinese Painting and Calligraphy 
+P087-7	18	培僑書院	Pui Kiu College	李祉滺	LEE Tze-yau	7		貓頭鷹	Owl	楊頌雅	YEUNG Chung-nga	中國書畫	Chinese Painting and Calligraphy 
+P091-9	19	天主教伍華小學	Ng Wah Catholic Primary School	王卓臻	WANG Cheuk-chun	11		水墨星夜	Starry Night – A Chinese Painting Interpretation	劉曉音	LAU Hiu-yam	中國書畫	Chinese Painting and Calligraphy 
+P091-13	20	天主教伍華小學	Ng Wah Catholic Primary School	陳麗茵	CHAN Lai-yan	11		永遠的朋友	Friendship Forever	鄧秀麗	TANG Sau-lai	中國書畫	Chinese Painting and Calligraphy 
+P101-8	21	大埔舊墟公立學校(寶湖道) 	Tai Po Old Market Public School (Plover Cove)	吳詩穎	NG Sea-rain	10		第一次	The First Time	黃櫻	HUANG Ying, Sakura	中國書畫	Chinese Painting and Calligraphy 
+P102-1	22	香港教育學院賽馬會小學	The Hong Kong Institute of Education Jockey Club Primary School	洪菁嵐	HUNG Ching-lam	10		吹笛者	Bamboo Flute Player	夏致興	HA Chi-hing, Crystal	中國書畫	Chinese Painting and Calligraphy 
+P102-2	23	香港教育學院賽馬會小學	The Hong Kong Institute of Education Jockey Club Primary School	林雪濴	LAM Suet-ying	10		飛沙風中轉	Dancing with the Wind	夏致興	HA Chi-hing, Crystal	中國書畫	Chinese Painting and Calligraphy 
+P102-3	24	香港教育學院賽馬會小學	The Hong Kong Institute of Education Jockey Club Primary School	方曉悠	FONG Hiu-yau	9		孔子和學生	Confucius and Students	夏致興	HA Chi-hing, Crystal	中國書畫	Chinese Painting and Calligraphy 
