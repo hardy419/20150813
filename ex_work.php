@@ -1,13 +1,13 @@
 <?php
 header("Content-type: text/html; charset=utf-8");
 
-$src = 'merit.txt';
-$file = 'chinese_painting.html';
-$img_dir = './Img/3_Merit.jpeg/Chi/';
-$prefix = 'artwork_c';
-$columns = 14;
-$abbr = 'M';
-$id_index = 2;
+$src = 'golden.txt';
+$file = 'golden_prize.html';
+$img_dir = './Img/1_Gold.jpeg/';
+$prefix = 'artwork_g';
+$columns = 16;
+$abbr = 'G';
+$id_index = 1;
 
 $data = array();
 $line_num = 0;
@@ -30,7 +30,7 @@ while ($line = fgets($fh)) {
 }
 fclose($fh);
 
-$templ = file_get_contents('artwork_sXX.html');
+$templ = file_get_contents($prefix.'XX.html');
 
 $img_files = scandir($img_dir);
 
@@ -79,9 +79,13 @@ foreach ($img_files as $img_file) if('.'!=$img_file && '..'!=$img_file && false=
     array_push($str2, $img_dir.$img_file, $img_dir.$img_file_s, sprintf("%'02d", $dindex));
     array_push($str1, '##back_url##');
     array_push($str2, $file);
+    array_push($str1, '##statement##', '##statement_e##');
+    array_push($str2, $data[$dindex][10], $data[$dindex][11]);
+    array_push($str1, '##category##', '##category_e##');
+    array_push($str2, $data[$dindex][14], $data[$dindex][15]);
 
-    $teachers = preg_split ("/,[\s*]/", $data[$dindex][10]);
-    $teachers_e = preg_split ("/,[\s*]/", $data[$dindex][11]);
+    $teachers = preg_split ("/,[\s*]/", $data[$dindex][12]);
+    $teachers_e = preg_split ("/,[\s*]/", $data[$dindex][13]);
     $teacher_html = '';
     foreach ($teachers as $key=>$teacher) {
         $teacher_html .= '<p class="chi">'.$teacher.'</p><p class="eng">'.$teachers_e[$key].'</p><p class="chi">&nbsp;</p>';

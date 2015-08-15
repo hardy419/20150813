@@ -6,11 +6,9 @@
 <title>SSSE</title>
 <link media="screen" type="text/css" rel="stylesheet" href="css/home.css"></link>
 <link media="screen" type="text/css" rel="stylesheet" href="css/lightbox.css"></link>
-<link media="screen" type="text/css" rel="stylesheet" href="js/video-js/video-js.css"></link>
 <script src="js/jquery-1.11.3.min.js"></script>
 <script src="js/main.js"></script>
 <script src="js/lightbox.js"></script>
-<script src="js/video-js/video.js"></script>
 </head>
 <body>
   <div class="background-div"><img src="Img/background.png" /></div>
@@ -38,43 +36,42 @@
     <div class="contents">
       <div class="workinfo">
         <div class="left-div">
-          <h1 class="chi">葉皓誼</h1>
-          <h1 class="eng">YIP Ho-yi</h1>
+          <h1 class="chi">招雅頌</h1>
+          <h1 class="eng">CHIU Nga-chung, Angel</h1>
           <p class="chi">&nbsp;</p>
           <table border="0" cellspacing="0" cellpadding="0">
             <tr>
               <td width="120"><p class="chi">年齡/Age</p><p class="chi">&nbsp;</p></td>
-              <td><p class="eng">16</p><p class="chi">&nbsp;</p></td>
+              <td><p class="eng">9</p><p class="chi">&nbsp;</p></td>
             </tr>
             <tr>
               <td><p class="chi">參展學校</p><p class="eng">School</p><p class="chi">&nbsp;</p></td>
-              <td><p class="chi">聖公會林裘謀中學</p><p class="eng">SKH Lam Kau Mow Secondary School</p><p class="chi">&nbsp;</p></td>
+              <td><p class="chi">天水圍天主教小學</p><p class="eng">Tin Shui Wai Catholic Primary School</p><p class="chi">&nbsp;</p></td>
             </tr>
             <tr>
               <td><p class="chi">作品主題</p><p class="eng">Topic</p><p class="chi">&nbsp;</p></td>
-              <td><p class="chi">惜時</p><p class="eng">Treasure Time</p><p class="chi">&nbsp;</p></td>
+              <td><p class="chi">我的家</p><p class="eng">My House</p><p class="chi">&nbsp;</p></td>
             </tr>
             <tr>
               <td><p class="chi">指導老師</p><p class="eng">Teacher</p><p class="chi">&nbsp;</p></td>
-              <td><p class="chi">郭筱怡</p><p class="eng">KWOK Siu-yee
-</p><p class="chi">&nbsp;</p></td>
+              <td><p class="chi">田偉玲</p><p class="eng">TIAN Wei-ling </p><p class="chi">&nbsp;</p></td>
             </tr>
             <tr>
               <td><p class="chi">類別</p><p class="eng">Category</p><p class="chi">&nbsp;</p></td>
-              <td><p class="chi">媒體藝術</p><p class="eng">Media Art</p><p class="chi">&nbsp;</p></td>
+              <td><p class="chi">平面創作</p><p class="eng">2-Dimensional Work</p><p class="chi">&nbsp;</p></td>
             </tr>
           </table>
           <p class="chi">創作者自白</p>
           <p class="eng">Artist’s Statement</p>
           <p class="chi">&nbsp;</p>
-          <p class="chi lh">每個人年少時總不免浪費時光。影片中的主角在夢中穿越到十年後，發現自己因以往虛耗光陰而將來需要過著難受的生活後，醒後決心改過。</p>
-          <p class="eng lh">Everyone may have wasted time when they were young. In this video, the boy is dreaming his miserable life in the future due to his waste of time in the past. When he wakes up, he decides to change.</p>
+          <p class="chi lh">桌上放置着一盆美麗的花、水壺、碟子和杯子，而哥哥就正在家中畫畫。這是我很喜愛的情景。</p>
+          <p class="eng lh">Apart from a beautiful pot of flowers, a flask, several plates and cups on the table, my brother was painting at home. This is my favourite scene.</p>
         </div>
         <div class="right-div">
           <h4 class="chi">作品</h4>
           <h4 class="eng">Artwork</h4>
           <ul class="student-work-u">
-            <li lsrc="Img/Artwork_1.gold/S057-6.png"><a href="javascript:js_op('videos/S057-6.mp4',720,540)"><div class="img-frame"><div></div></div></a></li>
+            <li lsrc="./Img/1_Gold.jpeg/G6_我的家[2].jpg"><a href="./Img/1_Gold.jpeg/G6_我的家.jpg" data-lightbox="student-work" idx="1" student="招雅頌" work="我的家" student-e="CHIU Nga-chung, Angel" work-e="My House"><div class="img-frame"><div></div></div></a></li>
           </ul>
         </div>
         <div style="clear:both"></div>
@@ -112,45 +109,6 @@ $(document).ready(function (){
     };
   });
 });
-</script>
-
-<div id="TB_window" style="position:absolute; top:50%; left:50%; width: 720px;height: 540px; margin-left:-360px;margin-top:-270px; display: none;z-index:2147483647">
-  <video id="popup-video" class="video-js vjs-default-skin" controls preload="auto">
-    <source src="" type='video/mp4' />
-    <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
-  </video>
-</div>
-<div id="TB_mask" style="filter:alpha(opacity=30);-moz-opacity:0.5;opacity:0.5;background-color:#000000;position:absolute;left:0px;top:0px;width:100%;height:300%;z-index:2147483646;display:none" onclick="js_op_close(false)"></div>
-
-<script>
-function js_op_close(reload){
-	var player=videojs('popup-video');
-	player.pause();
-	$("#TB_mask").css("display",'none');
-	$("#TB_window").css("display",'none');
-	$("#TB_window2").css("display",'none');
-	if(reload){
-		location.reload();
-	}
-}
-function js_op(url,w,h){
-	$("#TB_mask").css("display",'block');
-	var player=videojs('popup-video');
-	player.src({ type: "video/mp4", src: url });
-  videojs("popup-video", {}, function(){
-	// Player (this) is initialized and ready.
-    $("#TB_window").css("width",w+"px");
-    $("#TB_window").css("height",h+"px");
-    $("#TB_window").css("margin-left",(-w/2)+"px");
-    $("#TB_window").css("margin-top",(-h/2)+"px");
-    $(".video-js").css("width",w+"px");
-    $(".video-js").css("height",h+"px");
-	$(".vjs-big-play-button").css("margin","auto");
-	$(".vjs-big-play-button").css("top",((h-84)/2)+"px");
-	$(".vjs-big-play-button").css("position","relative");
-  });
-	$("#TB_window").css("display",'block');
-}
 </script>
 </body>
 </html>
