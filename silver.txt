@@ -1,20 +1,24 @@
-S027	英皇書院	King’s College	彭智鋒	PANG Ivo	13	體育運動	Sports	梅嘉慧	MUI Ka-wai
-S033	中華基督教會桂華山中學	C.C.C. Kwei Wah Shan College	李長源	LI Cheung-yuen	19	蝕	Erode	黄麗燕	WONG Lai-yin
-S034	中華基督教會基元中學	CCC Kei Yuen College	陳可欣	CHAN Ho-yan	17	鉅變	Great Change	朱惠玲	CHU Wai-ling
-S034	中華基督教會基元中學	CCC Kei Yuen College	李嘉玲	LI Ka-ling	18	突破	Breakthrough	朱惠玲	CHU Wai-ling
-S050	聖傑靈女子中學	St. Catharine's School For Girls (Kwun Tong)	杜家渝	TO Ka-yu	17	《擺奧巴馬上神枱》	To play a joke on Obama	陳玉嬋	CHAN yuk-sim
-S055	港澳信義會慕德中學	HKMLC Queen Maud Secondary School	陳鈺淳	CHAN Yuk-shun	17	轟!! 英雄大鬧倫敦	Attacked by the superheros!	陳啓新	CHAN Kai-san Steve
-S059	保良局姚連生中學	Po Leung Kuk Yao Ling Sun College	江曉僑	JIANG Xiao-qiao	18	假想	Imagination	曾偉權	TSANG Wai-kuen
-S064	獅子會中學	Lions College	容詠琪	LONG Wing-ki	18	整容國	——	張蓓瑩	CHONG Pui-ying
-S072	香港浸會大學附屬學校王錦輝中小學	HKBU Affiliated School Wong Kam Fai Secondary & Primary School	張芷晴	CHEUNG Tze-ching	18	專屬我的巧克力	The Chocolates To Me	羅醒楷	LAW Sing-kai 
-S078	保良局馬錦明中學	Po Leung Kuk Ma Kam Ming College	賴美琳	LAI Mei-lam	16	書中自有	Inside the book	陳靖豐	CHAN Ching-fung
-S079	中聖書院	China Holiness College	廖奕樂	LIU Yik-lok	18	慾貌	Faces of desire	張麗明	CHEUNG Lai-ming
-S095	伊利沙伯中學舊生會中學	Queen Elizabeth School Old Students’ Association Secondary School	歐煒敏	AU Wai-man	18	大牌檔	‘Tai Pai Dong’	梁德賢	LEUNG Tak-yin Billy
-S098	中華基督教會基順學校	CCC Kei Shun Special School	莊曉豐	CHONG Hiu-fung	18	大力膠布臨《麻姑仙壇記》	Alternative Calligraphy	伍國平	WU Kwok-ping
-S102	慈幼英文學校	Salesian English School	尤俊明	YAU Chun-ming 	16	筲箕灣	Shau Kei Wan	陳少南	TAN Siu-nam
-S105	五育中學	Ng Yuk Secondary School	林馨雨	LAM Hing-yu	17	救命	HELP!	張玉菁	CHEUNG Yuk- ching 
-S108	香港管理專業協會李國寶中學	HKMA David Li Kwok Po College	李配志	LI Pui-chi	17	意境	Artistic conception	黎倩如	LAI Sin-yu
-S112	九龍真光中學	Kowloon True Light School	馮葦殷	FUNG Wai-yan	17	百家布	Quilt	黃月鳳	WONG Yuet-fung
-S132	馬鞍山崇真中學	Ma On Sha Tsung Tsin Secondary School	陳樂瑤	CHAN Lok-yiu	16	北風與太陽	The North Wind and the Sun	陳浩波	CHAN Ho-po
-S136	荃灣聖芳濟中學	St. Francis Xavier’s School, Tsuen Wan	盧漢泉	LO Hon-chuen Jonathan	17	普教中下的白老鼠學生	The Lab rats under the Scheme of using Putonghua to teach 	李慧芳、黃穎智	LEE Wai-fong,  WONG Wing-chi
-S142	筲箕灣官立中學	Shau Kei Wan Government Secondary School	何文君	HO Man-kwan	17	史上最差相處秘籍	The Worst Communication Codex	鄭煥華、 林旭艷	CHENG Woon-wah , LAM Yuk-yim
+P005-15	1	基督教粉嶺神召會小學	Fanling Assembly Of God Church Primary School	馬顥殷	MA Ho-yan, Meko	11		木屋	Hut	勞凱瑜	LO Oi-yu, Angela	立體創作	3-Dimensional Work	
+P008-9	2	天水圍循道衛理小學	Tin Shui Wai Methodist Primary School	張喆熙	CHEUNG Chit-hei	10		四腳怪鳥	The Bird with Four Legs	廖桂英	LIU Kwai-ying, Jean	中國書畫	Chinese Painting and Calligraphy 	
+P010-5	3	喇沙小學	La Salle Primary School	金知煥	KIM Ji-hwan, Andre	12		音樂會	Music Concert	郭陳曦	KWOK Chen-hei, Haze	平面創作	2-Dimensional Work	
+P010-10	4	喇沙小學	La Salle Primary School	羅浩仁	LO Ho-yan	10		海洋世界	The Ocean World	郭陳曦	KWOK Chen-hei, Haze	平面創作	2-Dimensional Work	
+P017-7	5	將軍澳天主教小學	Tseung Kwan O Catholic Primary School	文雋彥	MAN Chun-yin, Linus	6		少年Man的奇幻漂流	"A Deep Blue Sea 
+Adventure
+"	溫淵珍, 吳汝慧	WAN Yuen-chun, NG Yu-wai	平面創作	2-Dimensional Work	
+P018-7	6	農圃道官立小學	Farm Road Government Primary School	蘇慧琳	SO Wai-lam, Lilian	11		我不是一隻貓!	I’m Not a Cat!	黃美芬	WONG Mee-fun	立體創作	3-Dimensional Work	
+P028-8	7	聖方濟愛德小學	St Francis Of Assisi's Caritas School	吳昭穎	NG Chiu-wing	8		春意	Spring	廖鳳嬌	LIU Fung-kiu	中國書畫	Chinese Painting and Calligraphy 	
+P030-9	8	民生書院小學	Munsang College Primary School	鄭澄蔚	CHENG Ching-wai	7		夢遊太空	Sleeping and Walking in Space	潘儷文	POON Lai-man	平面創作	2-Dimensional Work	
+P031-1	9	香港浸會大學附屬學校王錦輝中小學	HKBUAS Wong Kam Fai Secondary And Primary School	---	PANG Hei-yu, Jaydee	6		與水暢游	Playing with Water	田萱誼	TIN Huen-yi	平面創作	2-Dimensional Work	
+P035-9	10	梅窩學校	Mui Wo School	董雯悅	DONG Wen-yue	10		城市印象	The Impression of City	劉冬梅	LAU Tung-mui, Kendra  	平面創作	2-Dimensional Work	
+P047-1	11	香港四邑商工總會陳南昌紀念學校	HKSYC & IA Chan Nam Chong Memorial School	---	Aiman Bibi	8		真有趣	It's fun	蔡德仁	CHOY Tak-yan	平面創作	2-Dimensional Work	
+P051-2	12	胡素貞博士紀念學校	Dr. Catherine F. Woo Memorial School	陳知知	CHAN Chi-chi	11		人物速寫	Figure Drawing	葉玉玲	YIP Yuk-ling	平面創作	2-Dimensional Work	
+P057-9	13	保良局王賜豪(田心谷)小學	P.L.K. Dr. Jimmy Wong Chi-Ho (Tin Sum Valley) Primary School	李文迪	LEE Man-tik	10		紳士淑女慶十年	"Ceramic Lady 
+and Gentleman
+"	張詩韻	CHEUNG Sze-wan	立體創作	3-Dimensional Work	
+P063-7	14	愛培學校	Aoi Pui School	李子舜	LI Alvin	14		我的學校	My School	吳肇俊	NG Siu-chun, Alex	中國書畫	Chinese Painting and Calligraphy 	
+P072-1	15	蘇浙小學	Kiangsu & Chekiang Primary School	黃毅曄	OOI Ee-ye	8		足球賽	Football Match	麥煒輝	MAK Wai-fai	平面創作	2-Dimensional Work	
+P075-11	16	保良局香港道教聯合會圓玄小學	P.L.K. HKAT Yuen Yuen Primary School	鄭皓丰	CHENG Ho-fung	8		欣賞香港2015煙花	Beautiful Firework in HK 2015	馮家儀, 鍾佩瑩	FUNG Ka-yee, CHUNG Pui-ying	平面創作	2-Dimensional Work	
+P077-14	17	天主教聖安德肋小學	St. Andrew's Catholic Primary School	黃藹瑩	WONG Oi-ying	9		大壽包	Birthday Buns	容鳳蓮	YUNG Fung-lin	立體創作	3-Dimensional Work	
+P095-6	18	九龍真光中學 (小學部)	Kowloon True Light School (Primary School)	呂德瑤	LUI Tak-yiu	11		傍晚下的湖	Lake in the Evening	詹愛華	JIM Oi-wah	平面創作	2-Dimensional Work	
+P095-7	19	九龍真光中學 (小學部)	Kowloon True Light School (Primary School)	譚希澄	TAM Hei-ching	11		恐怖森林	Horrible Forest	詹愛華	JIM Oi-wah	平面創作	2-Dimensional Work	
+P099-13	20	海怡寶血小學	Precious Blood Primary School (South Horizons)	莊馥菱	CHONG Fuk-ling	8		大樹遊樂場	Tree Wonderland	黃尚宇	WONG Sheung-yu	平面創作	2-Dimensional Work	

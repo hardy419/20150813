@@ -1,12 +1,12 @@
 <?php
 header("Content-type: text/html; charset=utf-8");
 
-$src = 'golden.txt';
-$file = 'golden_prize.html';
-$img_dir = './Img/1_Gold.jpeg/';
-$prefix = 'artwork_g';
-$columns = 16;
-$abbr = 'G';
+$src = 'merit.txt';
+$file = 'chinese_painting.html';
+$img_dir = './Img/3_Merit.jpeg/Chi/';
+$prefix = 'artwork_c';
+$columns = 14;
+$abbr = 'M';
 $id_index = 1;
 
 $data = array();
@@ -38,7 +38,7 @@ $index = 1;
 
 foreach ($img_files as $img_file) if('.'!=$img_file && '..'!=$img_file && false===strpos($img_file, '[2]')) {
     $img_file = iconv('GBK', 'UTF-8', $img_file);
-    $img_file_s = substr ($img_file, 0, strlen($img_file)-4) . '[2].jpg';
+    $img_file_s = $img_file;//substr ($img_file, 0, strlen($img_file)-4) . '[2].jpg';
     echo '<h2>Img File: '.$img_file.'</h2>';
 /*
     $id = substr($img_file,0,4);
@@ -53,7 +53,7 @@ foreach ($img_files as $img_file) if('.'!=$img_file && '..'!=$img_file && false=
     }
 */
     // Find id in image file names
-    $frags = preg_split ("/[{$abbr}_]/", $img_file);
+    $frags = preg_split ("/[{$abbr}\.]/", $img_file);
     $dindex = $frags[$id_index];
 
     if (-1 == $dindex) {
@@ -82,10 +82,10 @@ foreach ($img_files as $img_file) if('.'!=$img_file && '..'!=$img_file && false=
     array_push($str1, '##statement##', '##statement_e##');
     array_push($str2, $data[$dindex][10], $data[$dindex][11]);
     array_push($str1, '##category##', '##category_e##');
-    array_push($str2, $data[$dindex][14], $data[$dindex][15]);
+    array_push($str2, $data[$dindex][12], $data[$dindex][13]);
 
-    $teachers = preg_split ("/,[\s*]/", $data[$dindex][12]);
-    $teachers_e = preg_split ("/,[\s*]/", $data[$dindex][13]);
+    $teachers = preg_split ("/,[\s*]/", $data[$dindex][10]);
+    $teachers_e = preg_split ("/,[\s*]/", $data[$dindex][11]);
     $teacher_html = '';
     foreach ($teachers as $key=>$teacher) {
         $teacher_html .= '<p class="chi">'.$teacher.'</p><p class="eng">'.$teachers_e[$key].'</p><p class="chi">&nbsp;</p>';
