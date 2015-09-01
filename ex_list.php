@@ -1,12 +1,12 @@
 <?php
 header("Content-type: text/html; charset=utf-8");
 
-$src = 'merit.txt';
-$file = 'chinese_painting.html';
-$img_dir = './Img/3_Merit.jpeg/Chi/';
-$prefix = 'artwork_c';
+$src = 'silver.txt';
+$file = 'silver_prize.html';
+$img_dir = './Img/2_Silver.jpeg/';
+$prefix = 'artwork_s';
 $columns = 14;
-$abbr = 'M';
+$abbr = 'S';
 $id_index = 1;
 
 $data = array();

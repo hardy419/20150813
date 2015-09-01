@@ -9,6 +9,8 @@
 <script src="js/jquery-1.11.3.min.js"></script>
 <script src="js/main.js"></script>
 <script src="js/lightbox.js"></script>
+<link media="screen" type="text/css" rel="stylesheet" href="js/video-js/video-js.css"></link>
+<script src="js/video-js/video.js"></script>
 </head>
 <body>
   <div class="background-div"><img src="Img/background.png" /></div>
@@ -36,25 +38,25 @@
     <div class="contents">
       <div class="workinfo">
         <div class="left-div">
-          <h1 class="chi">郭文棣</h1>
-          <h1 class="eng">KWOK Man-tai</h1>
+          <h1 class="chi">曹嘉欣</h1>
+          <h1 class="eng">TSAO Ka-yan</h1>
           <p class="chi">&nbsp;</p>
           <table border="0" cellspacing="0" cellpadding="0">
             <tr>
               <td width="120"><p class="chi">年齡/Age</p><p class="chi">&nbsp;</p></td>
-              <td><p class="eng">18</p><p class="chi">&nbsp;</p></td>
+              <td><p class="eng">12</p><p class="chi">&nbsp;</p></td>
             </tr>
             <tr>
               <td><p class="chi">參展學校</p><p class="eng">School</p><p class="chi">&nbsp;</p></td>
-              <td><p class="chi">中華基督教會全完中學</p><p class="eng">CCC Chuen Yuen College</p><p class="chi">&nbsp;</p></td>
+              <td><p class="chi">民生書院小學</p><p class="eng">Munsang College Primary School</p><p class="chi">&nbsp;</p></td>
             </tr>
             <tr>
               <td><p class="chi">作品主題</p><p class="eng">Topic</p><p class="chi">&nbsp;</p></td>
-              <td><p class="chi">高速攝影</p><p class="eng">High-Speed Photography</p><p class="chi">&nbsp;</p></td>
+              <td><p class="chi">相信自己</p><p class="eng">Believe in Yourself</p><p class="chi">&nbsp;</p></td>
             </tr>
             <tr>
               <td><p class="chi">指導老師</p><p class="eng">Teacher</p><p class="chi">&nbsp;</p></td>
-              <td><p class="chi">蕭凱寧</p><p class="eng">SIU Hoi-ning</p><p class="chi">&nbsp;</p></td>
+              <td><p class="chi">潘儷文</p><p class="eng">POON Lai-man</p><p class="chi">&nbsp;</p></td>
             </tr>
           <tr><td><p class="chi">類別</p><p class="eng">Category</p><p class="chi">&nbsp;</p></td><td><p class="chi">媒體藝術</p><p class="eng">Media Art</p><p class="chi">&nbsp;</p></td></tr></table>
         </div>
@@ -62,7 +64,7 @@
           <h4 class="chi">作品</h4>
           <h4 class="eng">Artwork</h4>
           <ul class="student-work-u">
-            <li lsrc="Img/Artwork_3.Merit/MEDIA/S015.gif"><a href="Img/Artwork_3.Merit/MEDIA/S015.gif" data-lightbox="student-work" idx="1" student="郭文棣" work="高速攝影" student-e="KWOK Man-tai" work-e="High-Speed Photography"><div class="img-frame"><div></div></div></a></li>
+            <li lsrc="./Img/3_Merit.jpeg/MEDIA/Screen preview/Media_M1.png"><a href="javascript:js_op('videos/Media_M1.mp4',854,480)"><div class="img-frame"><div></div></div></a></li>
           </ul>
         </div>
         <div style="clear:both"></div>
@@ -100,6 +102,45 @@ $(document).ready(function (){
     };
   });
 });
+</script>
+
+<div id="TB_window" style="position:absolute; top:50%; left:50%; width: 854px;height: 480px; margin-left:-427px;margin-top:-240px; display: none;z-index:2147483647">
+  <video id="popup-video" class="video-js vjs-default-skin" controls preload="auto">
+    <source src="" type='video/mp4' />
+    <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
+  </video>
+</div>
+<div id="TB_mask" style="filter:alpha(opacity=30);-moz-opacity:0.5;opacity:0.5;background-color:#000000;position:absolute;left:0px;top:0px;width:100%;height:300%;z-index:2147483646;display:none" onclick="js_op_close(false)"></div>
+
+<script>
+function js_op_close(reload){
+	var player=videojs('popup-video');
+	player.pause();
+	$("#TB_mask").css("display",'none');
+	$("#TB_window").css("display",'none');
+	$("#TB_window2").css("display",'none');
+	if(reload){
+		location.reload();
+	}
+}
+function js_op(url,w,h){
+	$("#TB_mask").css("display",'block');
+	var player=videojs('popup-video');
+	player.src({ type: "video/mp4", src: url });
+  videojs("popup-video", {}, function(){
+	// Player (this) is initialized and ready.
+    $("#TB_window").css("width",w+"px");
+    $("#TB_window").css("height",h+"px");
+    $("#TB_window").css("margin-left",(-w/2)+"px");
+    $("#TB_window").css("margin-top",(-h/2)+"px");
+    $(".video-js").css("width",w+"px");
+    $(".video-js").css("height",h+"px");
+	$(".vjs-big-play-button").css("margin","auto");
+	$(".vjs-big-play-button").css("top",((h-84)/2)+"px");
+	$(".vjs-big-play-button").css("position","relative");
+  });
+	$("#TB_window").css("display",'block');
+}
 </script>
 </body>
 </html>

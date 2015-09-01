@@ -9,8 +9,6 @@
 <script src="js/jquery-1.11.3.min.js"></script>
 <script src="js/main.js"></script>
 <script src="js/lightbox.js"></script>
-<link media="screen" type="text/css" rel="stylesheet" href="js/video-js/video-js.css"></link>
-<script src="js/video-js/video.js"></script>
 </head>
 <body>
   <div class="background-div"><img src="Img/background.png" /></div>
@@ -25,10 +23,10 @@
       <div class="menu-item" id="menu-id2" onclick="window.location.href='golden_prize.html';" onmouseover="$(this).css('background-color','#eee')" onmouseout="$(this).css('background-color','transparent')">
         <p class="chi">金獎</p><p class="eng">Gold Prize</p>
       </div>
-      <div class="menu-item menu-item-active" id="menu-id3" onclick="window.location.href='silver_prize.html';">
+      <div class="menu-item" id="menu-id3" onclick="window.location.href='silver_prize.html';" onmouseover="$(this).css('background-color','#eee')" onmouseout="$(this).css('background-color','transparent')">
         <p class="chi">銀獎</p><p class="eng">Silver Prize</p>
       </div>
-      <div class="menu-item" id="menu-id4" onclick="window.location.href='certificate.html';" onmouseover="$(this).css('background-color','#eee')" onmouseout="$(this).css('background-color','transparent')">
+      <div class="menu-item menu-item-active" id="menu-id4" onclick="window.location.href='certificate.html';">
         <p class="chi">嘉許狀</p><p class="eng">Certificate of Merit</p>
       </div>
       <div class="menu-item" id="menu-id5" onclick="window.location.href='memories.html';" onmouseover="$(this).css('background-color','#eee')" onmouseout="$(this).css('background-color','transparent')">
@@ -38,34 +36,37 @@
     <div class="contents">
       <div class="workinfo">
         <div class="left-div">
-          <h1 class="chi">陳樂瑤</h1>
-          <h1 class="eng">CHAN Lok-yiu</h1>
+          <h1 class="chi">呂德瑤</h1>
+          <h1 class="eng">LUI Tak-yiu</h1>
           <p class="chi">&nbsp;</p>
           <table border="0" cellspacing="0" cellpadding="0">
             <tr>
               <td width="120"><p class="chi">年齡/Age</p><p class="chi">&nbsp;</p></td>
-              <td><p class="eng">16</p><p class="chi">&nbsp;</p></td>
+              <td><p class="eng">11</p><p class="chi">&nbsp;</p></td>
             </tr>
             <tr>
               <td><p class="chi">參展學校</p><p class="eng">School</p><p class="chi">&nbsp;</p></td>
-              <td><p class="chi">馬鞍山崇真中學</p><p class="eng">Ma On Sha Tsung Tsin Secondary School</p><p class="chi">&nbsp;</p></td>
+              <td><p class="chi">九龍真光中學 (小學部)</p><p class="eng">Kowloon True Light School (Primary School)</p><p class="chi">&nbsp;</p></td>
             </tr>
             <tr>
               <td><p class="chi">作品主題</p><p class="eng">Topic</p><p class="chi">&nbsp;</p></td>
-              <td><p class="chi">北風與太陽</p><p class="eng">The North Wind and the Sun</p><p class="chi">&nbsp;</p></td>
+              <td><p class="chi">傍晚下的湖</p><p class="eng">Lake in the Evening</p><p class="chi">&nbsp;</p></td>
             </tr>
             <tr>
               <td><p class="chi">指導老師</p><p class="eng">Teacher</p><p class="chi">&nbsp;</p></td>
-              <td><p class="chi">陳浩波</p><p class="eng">CHAN Ho-po
-</p><p class="chi">&nbsp;</p></td>
+              <td><p class="chi">詹愛華</p><p class="eng">JIM Oi-wah</p><p class="chi">&nbsp;</p></td>
             </tr>
-          <tr><td><p class="chi">類別</p><p class="eng">Category</p><p class="chi">&nbsp;</p></td><td><p class="chi">媒體藝術</p><p class="eng">Media Art</p><p class="chi">&nbsp;</p></td></tr></table>
+            <tr>
+              <td><p class="chi">類別</p><p class="eng">Category</p><p class="chi">&nbsp;</p></td>
+              <td><p class="chi">平面創作</p><p class="eng">2-Dimensional Work</p><p class="chi">&nbsp;</p></td>
+            </tr>
+          </table>
         </div>
         <div class="right-div">
           <h4 class="chi">作品</h4>
           <h4 class="eng">Artwork</h4>
           <ul class="student-work-u">
-            <li lsrc="Img/Artwork_2.silver/s132.png"><a href="javascript:js_op('videos/S132.mp4',720,540)"><div class="img-frame"><div></div></div></a></li>
+            <li lsrc="./Img/2_Silver.jpeg/S18.jpg"><a href="./Img/2_Silver.jpeg/S18.jpg" data-lightbox="student-work" idx="1" student="呂德瑤" work="傍晚下的湖" student-e="LUI Tak-yiu" work-e="Lake in the Evening"><div class="img-frame"><div></div></div></a></li>
           </ul>
         </div>
         <div style="clear:both"></div>
@@ -103,45 +104,6 @@ $(document).ready(function (){
     };
   });
 });
-</script>
-
-<div id="TB_window" style="position:absolute; top:50%; left:50%; width: 720px;height: 540px; margin-left:-360px;margin-top:-270px; display: none;z-index:2147483647">
-  <video id="popup-video" class="video-js vjs-default-skin" controls preload="auto">
-    <source src="" type='video/mp4' />
-    <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
-  </video>
-</div>
-<div id="TB_mask" style="filter:alpha(opacity=30);-moz-opacity:0.5;opacity:0.5;background-color:#000000;position:absolute;left:0px;top:0px;width:100%;height:300%;z-index:2147483646;display:none" onclick="js_op_close(false)"></div>
-
-<script>
-function js_op_close(reload){
-	var player=videojs('popup-video');
-	player.pause();
-	$("#TB_mask").css("display",'none');
-	$("#TB_window").css("display",'none');
-	$("#TB_window2").css("display",'none');
-	if(reload){
-		location.reload();
-	}
-}
-function js_op(url,w,h){
-	$("#TB_mask").css("display",'block');
-	var player=videojs('popup-video');
-	player.src({ type: "video/mp4", src: url });
-  videojs("popup-video", {}, function(){
-	// Player (this) is initialized and ready.
-    $("#TB_window").css("width",w+"px");
-    $("#TB_window").css("height",h+"px");
-    $("#TB_window").css("margin-left",(-w/2)+"px");
-    $("#TB_window").css("margin-top",(-h/2)+"px");
-    $(".video-js").css("width",w+"px");
-    $(".video-js").css("height",h+"px");
-	$(".vjs-big-play-button").css("margin","auto");
-	$(".vjs-big-play-button").css("top",((h-84)/2)+"px");
-	$(".vjs-big-play-button").css("position","relative");
-  });
-	$("#TB_window").css("display",'block');
-}
 </script>
 </body>
 </html>

@@ -1,26 +1,73 @@
-P008-7	1	天水圍循道衛理小學	Tin Shui Wai Methodist Primary School	歐陽雅雯	AO IEONG Nga-man	10		舞動水羅	Dance in Ink	廖桂英	LIU Kwai-ying, Jean	中國書畫	Chinese Painting and Calligraphy 
-P025-13	2	寶血會嘉靈學校	Ka Ling School of The Precious Blood	黃子昕	WONG Tsz-yan	6		水中仙子	Daffodils	---	---	中國書畫	Chinese Painting and Calligraphy 
-P028-11	3	聖方濟愛德小學	St. Francis of Assisi's Caritas School	蘇琬甯	SO Yuen-ning	9		秋意	Autumn	廖鳳嬌	LIU Fung-kiu	中國書畫	Chinese Painting and Calligraphy 
-P040-10	4	天主教博智小學	Price Memorial Catholic Primary School	鄧靜雯	TANG Ching-man	12		竹枝上的小鳥	Birds on the Bamboo	鄭雪雲, 廖凱婷	CHANG Suet-wan, LIU Hoi-ting	中國書畫	Chinese Painting and Calligraphy 
-P047-10	5	香港四邑商工總會陳南昌紀念學校	HKSYC&IA Chan Nam Chong Memorial School	羅溢朗	LAW Yat-long	7		朗朗吃果果	I Eat Fruits	曹芷瓊	CHAO Tsz-king	中國書畫	Chinese Painting and Calligraphy 
-P049-12	6	油蔴地天主教小學	Yaumati Catholic Primary School	張嘉恩	CHEUNG Ka-yan	10		陪伴	Mother Care	鄭秀韻	CHENG Sau-wan	中國書畫	Chinese Painting and Calligraphy 
-P067-1	7	嗇色園主辦可信學校	Ho Shun Primary School (Sponsored By Sik Sik Yuen)	梁維朗	LEUNG Wai-long	6		出走了! 四處跑!	Run in Different Ways!	潘鳳蓮	PUN Fung-lin	中國書畫	Chinese Painting and Calligraphy 
-P072-8	8	蘇浙小學	Kiangsu & Chekiang Primary School	陳芊妤	CHAN Chin-ue	8		有志者成（行書）	There is a Will, There is a Way  (Semi-cursive Script)	范成蕙	FAN Shing-wei	中國書畫	Chinese Painting and Calligraphy 
-P072-9	9	蘇浙小學	Kiangsu & Chekiang Primary School	張艾維	ZHANG Ai-wei	12		開卷有益（行書）	"Reading Makes a Full Man 
-(Semi-cursive Script)
-"	范成蕙	FAN Shing-wei	中國書畫	Chinese Painting and Calligraphy 
-P072-10	10	蘇浙小學	Kiangsu & Chekiang Primary School	鄭喬方	CHENG Kiu-fong, Jelly	11		不進則退  （行書）	Step Up or You Will Be Left Behind (Semi-cursive Script)	范成蕙	FAN Shing-wei	中國書畫	Chinese Painting and Calligraphy 
-P072-11	11	蘇浙小學	Kiangsu & Chekiang Primary School	陳靖堯	CHAN Ching-yiu	11		好學不倦（行書）	Be Studious (Semi-cursive Script)	范成蕙	FAN Shing-wei	中國書畫	Chinese Painting and Calligraphy 
-P072-12	12	蘇浙小學	Kiangsu & Chekiang Primary School	梁嘉煒	LIANG Jia-wei	10		發奮圖強（隸書）	Dedicated Work (Clerical Script)	范成蕙	FAN Shing-wei	中國書畫	Chinese Painting and Calligraphy 
-P076-6	13	聖公會榮真小學	S.K.H. Wing Chun Primary School	梁芷蕎	LEUNG Tsz-kiu	10		漁村風情	Fishing Village	邱佩詠	YAU Pui-wing	中國書畫	Chinese Painting and Calligraphy 
-P077-9	14	天主教聖安德肋小學	St. Andrew's Catholic Primary School	蕭嘉禧	SIU Ka-hei	10		鶴	Red-Crowned Crane	容鳳蓮	YUNG Fung-lin	中國書畫	Chinese Painting and Calligraphy 
-P084-2	15	香港培正小學	Pui Ching Primary School	余鎧琳	YU Hoi-lam, Rachel	11		學習壓力	I Hate Homework	陳家俊	CHAN Ka-chun	中國書畫	Chinese Painting and Calligraphy 
-P084-3	16	香港培正小學	Pui Ching Primary School	莊曉蝶	CHONG Hiu-tip	12		開學前一晚	The Night Before the First Day of School	陳家俊	CHAN Ka-chun	中國書畫	Chinese Painting and Calligraphy 
-P087-6	17	培僑書院	Pui Kiu College	李綽盈	LEE Chek-ying	8		小斑馬	Zebra	楊頌雅	YEUNG Chung-nga	中國書畫	Chinese Painting and Calligraphy 
-P087-7	18	培僑書院	Pui Kiu College	李祉滺	LEE Tze-yau	7		貓頭鷹	Owl	楊頌雅	YEUNG Chung-nga	中國書畫	Chinese Painting and Calligraphy 
-P091-9	19	天主教伍華小學	Ng Wah Catholic Primary School	王卓臻	WANG Cheuk-chun	11		水墨星夜	Starry Night – A Chinese Painting Interpretation	劉曉音	LAU Hiu-yam	中國書畫	Chinese Painting and Calligraphy 
-P091-13	20	天主教伍華小學	Ng Wah Catholic Primary School	陳麗茵	CHAN Lai-yan	11		永遠的朋友	Friendship Forever	鄧秀麗	TANG Sau-lai	中國書畫	Chinese Painting and Calligraphy 
-P101-8	21	大埔舊墟公立學校(寶湖道) 	Tai Po Old Market Public School (Plover Cove)	吳詩穎	NG Sea-rain	10		第一次	The First Time	黃櫻	HUANG Ying, Sakura	中國書畫	Chinese Painting and Calligraphy 
-P102-1	22	香港教育學院賽馬會小學	The Hong Kong Institute of Education Jockey Club Primary School	洪菁嵐	HUNG Ching-lam	10		吹笛者	Bamboo Flute Player	夏致興	HA Chi-hing, Crystal	中國書畫	Chinese Painting and Calligraphy 
-P102-2	23	香港教育學院賽馬會小學	The Hong Kong Institute of Education Jockey Club Primary School	林雪濴	LAM Suet-ying	10		飛沙風中轉	Dancing with the Wind	夏致興	HA Chi-hing, Crystal	中國書畫	Chinese Painting and Calligraphy 
-P102-3	24	香港教育學院賽馬會小學	The Hong Kong Institute of Education Jockey Club Primary School	方曉悠	FONG Hiu-yau	9		孔子和學生	Confucius and Students	夏致興	HA Chi-hing, Crystal	中國書畫	Chinese Painting and Calligraphy 
+P004-4	1	鴨脷洲街坊學校	Aplichau Kaifong Primary School	蔡梓皓	CHAI Tsz-ho	10		鄉村的房子	A House in the Countryside	高楠	KO Nam	平面創作	2-Dimensional Work
+P004-5	2	鴨脷洲街坊學校	Aplichau Kaifong Primary School	梁浩霖	LEUNG Ho-lam	8		夜航	Sailing at Night	高楠	KO Nam	平面創作	2-Dimensional Work
+P004-10	3	鴨脷洲街坊學校	Aplichau Kaifong Primary School	林欣彤	LAM Yan-tung	8		高高低低的房子	High and Low Houses	高楠	KO Nam	平面創作	2-Dimensional Work
+P006-11	4	香港青年協會李兆基小學	HKFYG Lee Shau Kee Primary School	余睿琳	YU Yui-lam	6		我喜愛的花	My Favorite Flowers	黎嘉慧, 陳鈺澄, 黃哲	LAI Kar-wai, Olivia,   CHAN Yuk-ching, HUANG Zhe	平面創作	2-Dimensional Work
+P012-1	5	循理會白普理基金循理小學	F.M.B. Chun Lei Primary School	梁文軒	LEUNG Man-hin	11		美麗的雀	A Beautiful Bird	盧小慧	LO Siu-wai	平面創作	2-Dimensional Work
+P012-7	6	循理會白普理基金循理小學	F.M.B. Chun Lei Primary School	徐潁希	CHUI Wing-hei	12		孔雀	Peacock	盧小慧	LO Siu-wai	平面創作	2-Dimensional Work
+P016-10	7	聖保祿天主教小學	St. Paul's Primary Catholic School	甄若婷	YAN Yeuk-ting, Cassandra	13		繽紛的鸚鵡	Colourful Parrots	周詠南	CHAU Wing-nam	平面創作	2-Dimensional Work
+P017-6	8	將軍澳天主教小學	Tseung Kwan O Catholic Primary School	鄭詠蕎	CHENG Wing-kiu	11		勇往直前!	Go Ahead!	溫淵珍, 吳汝慧	WAN Yuen-chun, NG Yu-wai	平面創作	2-Dimensional Work
+P018-3	9	農圃道官立小學	Farm Road Government Primary School	黃灝朗	WONG Ho-long	11		新世紀嫦娥	New Age Moon Goddess	黃美芬	WONG Mee-fun	平面創作	2-Dimensional Work
+P019-3	10	基督教宣道會徐澤林紀念小學	C.&M.A. Chui Chak Lam Memorial School	施卓怡	Schroedor Joyce Dorothea	11		我愛大自然	I Love Nature	陳綺華	CHAN Yee-wah	平面創作	2-Dimensional Work
+P019-12	11	基督教宣道會徐澤林紀念小學	C.&M.A. Chui Chak Lam Memorial School	郭巧君	KWOK Hau-kwan	10		彩色玻璃窗	The Beauty of Stained Glass	楊占穎	YEUNG Chim-wing	平面創作	2-Dimensional Work
+P021-5	12	聖公會基樂小學	S.K.H. Kei Lok Primary School	周志瑩	CHAU Chi-ying	10		花卉素描	Flower Drawing	郭素思	KWOK So-sze, Suzi	平面創作	2-Dimensional Work
+P021-6	13	聖公會基樂小學	S.K.H. Kei Lok Primary School	陳鎔莉	CHAN Yung-lei	10		花卉素描	Flower Drawing	郭素思	KWOK So-sze, Suzi	平面創作	2-Dimensional Work
+P025-9	14	寶血會嘉靈學校	Ka Ling School of The Precious Blood	謝珮怡	TSE Pui-yi	9		敦煌飛天	Flying Apsaras of Dunhuang	---	---	平面創作	2-Dimensional Work
+P029-1	15	九龍灣聖若翰天主教小學	Kowloon Bay St. John The Baptist Catholic Primary School	蔡蘊茵	CAI Wan-yan	7		貪吃的貓	Greedy Cat	陳志敏	CHAN Chi-man	平面創作	2-Dimensional Work
+P029-11	16	九龍灣聖若翰天主教小學	Kowloon Bay St. John The Baptist Catholic Primary School	呂栢瑜	LUI Pak-yu	7		獅子理髮店	Lion Salon	陳藹欣	CHAN Hoi-yan	平面創作	2-Dimensional Work
+P031-2	17	香港浸會大學附屬學校王錦輝中小學	HKBUAS Wong Kam Fai Secondary and Primary School	梁芷柔	LEUNG Tsz-yau	7		大樹下	Under the Big Tree	周梓君	CHAU Tsz-kwan, Rachel	平面創作	2-Dimensional Work
+P034-7	18	光明英來學校	Kwong Ming Ying Loi School	林慧心	LAM Wai-sum	9		公園寫生	Drawing of the Park	李韻姿	LI Wan-chi	平面創作	2-Dimensional Work
+P035-6	19	梅窩學校	Mui Wo School	洪在山	EVELYN Mollie-nunn	8		改造梵高的房間	Redesign of Van Gogh’s Room	楊窈窕	YEUNG Miu-tiu	平面創作	2-Dimensional Work
+P035-8	20	梅窩學校	Mui Wo School	甄哲輝	YAN Chit-fai	9		我的自行車	My Bike	金喜蓮	KAM Hei-lin  	平面創作	2-Dimensional Work
+P036-1	21	樂善堂梁銶琚學校	Lok Sin Tong Leung Kau Kui Primary School	王惠嬋	WANG Hui-chan	8		自畫像	Self-portrait	成慧賢	SHING Wai-yin, Vivian	平面創作	2-Dimensional Work
+P037-6	22	天水圍天主教小學	Tin Shui Wai Catholic Primary School	曾燊妍	TSANG San-yin	10		創意瓦通雜誌架	Creative Corrugated File	孔震宇	HUNG Chun-yu 	平面創作	2-Dimensional Work
+P039-9	23	嘉諾撒小學(新蒲崗)	Canossa Primary School (San Po Kong)	莫泳堯	MOK Wing-yiu	11		馬戲一瞬間	The Circus	彭嘉瑤	PANG Ka-yiu	平面創作	2-Dimensional Work
+P039-13	24	嘉諾撒小學(新蒲崗)	Canossa Primary School (San Po Kong)	何尚欣	HO Sheung-yan	12		我的夢想	My Dream	黃馨寧	WONG Hing-ning	平面創作	2-Dimensional Work
+P041-10	25	啟基學校	Chan's Creative School	郭曉琳	KWOK Hiu-lam	7		我愛農場中的動物	I Love Animals in the Farm	袁珮詩	YUEN Bessie	平面創作	2-Dimensional Work
+P044-9	26	吳氏宗親總會泰伯紀念學校	Ng Clan's Association Tai Pak Memorial School	張芊汶	CHEUNG Chin-man	10		我最喜愛的節日	My Favorite Festival	馬永詩	MA Wing-sze, Stalla	平面創作	2-Dimensional Work
+P046-1	27	天主教柏德學校	Bishop Paschang Catholic School	李詠琳	LEE Wing-lam	10		孔雀開屏	The Peacock Spreads Its Tail Feathers	---	---	平面創作	2-Dimensional Work
+P047-2	28	香港四邑商工總會陳南昌紀念學校	HKSYC&IA Chan Nam Chong Memorial School	吳煒傑	NG Wai-kit	7		我看見一棵樹	I See a Tree	蔡德仁	CHOY Tak-yan	平面創作	2-Dimensional Work
+P047-4	29	香港四邑商工總會陳南昌紀念學校	HKSYC&IA Chan Nam Chong Memorial School	張譽庭	CHEUNG Yu-ting	9		我的魚會跳	I Have a Jumping Fish	蔡德仁	CHOY Tak-yan	平面創作	2-Dimensional Work
+P047-5	30	香港四邑商工總會陳南昌紀念學校	HKSYC&IA Chan Nam Chong Memorial School	林文熙	LIN Man-hei	9		蝴蝶高飛	Fly High Butterfly	蔡德仁	CHOY Tak-yan	平面創作	2-Dimensional Work
+P047-7	31	香港四邑商工總會陳南昌紀念學校	HKSYC&IA Chan Nam Chong Memorial School	陳欣悅	CHAN Yan-yuet	8		欣悅公園	Yan Yuet Garden	曹芷瓊	CHAO Tsz-king	平面創作	2-Dimensional Work
+P049-5	32	油蔴地天主教小學	Yaumati Catholic Primary School	何欣然	HO Yan-yin	11		小賣部	Snack Shop	馬加兒	MA Ka-yi	平面創作	2-Dimensional Work
+P051-9	33	胡素貞博士紀念學校	Dr. Catherine F. Woo Memorial School	林明煒	LAM Ming-wai	10		食物面面觀	All about Food	鄧家棟	TANG Ka-tung	平面創作	2-Dimensional Work
+P051-10	34	胡素貞博士紀念學校	Dr. Catherine F. Woo Memorial School	李皓洋	LI Ho-yeung	7		同學有趣的臉	Funny Face of My Classmate	黎嘉欣	LAI Ka-yan	平面創作	2-Dimensional Work
+P053-3	35	東華三院鄧肇堅小學	T.W.G.Hs. Tang Shiu Kin Primary School	區顯華	AU Hin-wa	11		學校探險記---同學早晨，記得拍卡點名!	Adventure in School---Good Morning! Remember to Tap Your Octopus Card for Register!	麥靄雯	MAK Ngoi-man	平面創作	2-Dimensional Work
+P054-1	36	元朗官立小學	Yuen Long Government Primary School	郭曉筠	KWOK Hiu-kwan, Eunice	10		靜物擺設	Still-life Setting	陳惠玲	CHAN Wai-ling	平面創作	2-Dimensional Work
+P060-1	37	保良局余李慕芬紀念學校 	P.L.K. Yu Lee Mo Fan Memorial School　　	鄺朗熙	KONG Long-hei	10		粵劇名伶	Cantonese Opera Star	羅歡儀	LAW Foon-yee	平面創作	2-Dimensional Work
+P060-4	38	保良局余李慕芬紀念學校 	P.L.K. Yu Lee Mo Fan Memorial School　　	吳暢	NG Cheung	14		粵劇名伶	Cantonese Opera Stars	羅歡儀	LAW Foon-yee	平面創作	2-Dimensional Work
+P062-6	39	嶺南大學香港同學會小學	Lingnan University Alumni Association (HK) Primary School	劉浩揚	LAU Ho-yeung	10		動物世界	Animal World	劉彩霞	LAU Choi-ha	平面創作	2-Dimensional Work
+P062-14	40	嶺南大學香港同學會小學	Lingnan University Alumni Association (HK) Primary School	廖恩浩	LIU Yan-ho, Matthew	7		動物主題公園	Animal Theme Park	劉彩霞	LAU Choi-ha	平面創作	2-Dimensional Work
+P063-2	41	愛培學校	Aoi Pui School	黃子焯	WONG Tsz-cheuk, Nathan	7		我的社區	My Community	譚壁瑜	TAM June	平面創作	2-Dimensional Work
+P064-7	42	合一堂學校	Hop Yat Church School	郭萁晉	KWOK Kei-chun	11		線繞藝術	The Art of Lines	蔡婉兒	CHOI Yuen-yee	平面創作	2-Dimensional Work
+P064-8	43	合一堂學校	Hop Yat Church School	許嵐	HUI Lan	11		線繞藝術	The Art of Lines	蔡婉兒	CHOI Yuen-yee	平面創作	2-Dimensional Work
+P069-1	44	鳳溪第一小學	Fung Kai No.1 Primary School	張子欣	ZHANG Zixing	7		長頸鹿的聚會	Giraffes’ Gathering	鄭穎婷	CHENG Wing-ting	平面創作	2-Dimensional Work
+P069-3	45	鳳溪第一小學	Fung Kai No.1 Primary School	鍾綽倫	CHUNG Cheuk-lun	8		花叢中的麻雀	Sparrows in the Garden	陳小敏	CHAN Siu-man	平面創作	2-Dimensional Work
+P071-1	46	英皇書院同學會小學第二校	King's College Old Boys' Association Primary School No. 2	龔厚伊	KUNG Hau-yi	10		美麗孔雀	Beautiful Peacock	范敬歡	FAN King-foon	平面創作	2-Dimensional Work
+P072-6	47	蘇浙小學	Kiangsu & Chekiang Primary School	陳弘睿	TAN Hong-rui	9		我心中的恐龍世界	My Dinosaur World	麥煒輝	MAK Wai-fai	平面創作	2-Dimensional Work
+P073-1	48	拔萃男書院附屬小學	Diocesan Boy's School Primary Division	吳柏熙	NG Raymond	12		變臉	Transforming Self-portrait	徐綺華	CHUI Eva	平面創作	2-Dimensional Work
+P073-13	49	拔萃男書院附屬小學	Diocesan Boy's School Primary Division	俞承希	YU Raphael 	12		弗米爾的房間	Vermeer's Room	徐綺華	CHUI Eva	平面創作	2-Dimensional Work
+P074-2	50	順德聯誼總會梁潔華小學	S.T.F.A. Leung Kit Wah Primary School	鄧至傑	DENG Chi-kit	5		復活蛋與兔	Easter Egg and Rabbit	劉凱琦	LAU Hoi-kei	平面創作	2-Dimensional Work
+P074-9	51	順德聯誼總會梁潔華小學	S.T.F.A. Leung Kit Wah Primary School	陳思穎	CHAN Sze-wing	11		我的夢	My Dream	陳莉莉	CHAN Lee-lee	平面創作	2-Dimensional Work
+P075-7	52	保良局香港道教聯合會圓玄小學 	P.L.K. HKTA Yuen Yuen Primary School	梁景華	LEUNG King-wah	12		童年	Childhood 	辛惠敏	SUN Wai-man	平面創作	2-Dimensional Work
+P075-9	53	保良局香港道教聯合會圓玄小學 	P.L.K. HKTA Yuen Yuen Primary School	區苡淇	AU Yee-ki, Emma	8		香港2015	HK 2015	馮家儀, 鍾佩瑩	FUNG Ka-yee, CHUNG Pui-ying	平面創作	2-Dimensional Work
+P075-14	54	保良局香港道教聯合會圓玄小學 	P.L.K. HKTA Yuen Yuen Primary School	張津悅	CHEUNG Chun-yuet	10		小白貓	Cat and Butterfly	辛惠敏	SUN Wai-man	平面創作	2-Dimensional Work
+p077-7	55	天主教聖安德肋小學	St. Andrew's Catholic Primary School	劉俊賢	LAU Chun-yin	11		我理想的生活環境	My Ideal Living Environment	朱麗梅	CHU Lai-mui	平面創作	2-Dimensional Work
+P079-5	56	基督教香港信義會信愛學校	The ELCHK Faith Love Lutheran School	王欣儀	WONG Yan-yee	11		花	Flowers	譚思瑞	TAM Sze-soi	平面創作	2-Dimensional Work
+P084-1	57	香港培正小學	Pui Ching Primary School	吳子心	NG Tsz-sum	12		人類造成的污染	Human Pollution	陳家俊	CHAN Ka-chun	平面創作	2-Dimensional Work	
+P085-6	58	中華基督教會基慈小學	C.C.C. Kei Tsz Primary School	王凱欣	WONG Hoi-yan	8		我是豆芽人	Flowering Girl	袁彩鳴	YUEN Choi-ming	平面創作	2-Dimensional Work	
+P086-5	59	秀茂坪天主教小學	Sau Mau Ping Catholic Primary School	楊敏聰	YEUNG Man-chung	8		煙花	Firework	劉綺雯	LAU Yee-man	平面創作	2-Dimensional Work	
+P088-2	60	聖公會聖雅各小學	S.K.H. St. James' Primary School	陳文迪	CHAN Man-tik	8		和諧	Harmony	黃志芬	WONG Chi-fun, Betty	平面創作	2-Dimensional Work	
+P089-1	61	宣道會葉紹蔭紀念小學	Christian Alliance S.Y. Yeh Memorial Primary School	蔡忠頤	TSAI Chung-yi	7		太空上的交通意外	An Accident in the Outer Space	李嘉琪	LI Ka-ki, Kate	平面創作	2-Dimensional Work	
+P089-2	62	宣道會葉紹蔭紀念小學	Christian Alliance S.Y. Yeh Memorial Primary School	顏嘉琪	NGAR Ka-ki	10		我的夢幻餐廳	My Dream Restaurant	李嘉琪	LI Ka-ki, Kate	平面創作	2-Dimensional Work	
+P091-11	63	天主教伍華小學	Ng Wah Catholic Primary School	鄭希汶	CHENG Hei-man	8		古靈精怪的世界	Fantasy World	馮凱婷	FUNG Hoi-ting	平面創作	2-Dimensional Work	
+P092-2	64	中華基督教會基順學校	C.C.C. Kei Shun Special School	甘曉峯	CLYNE Hiu-fung, James	6		無題	Untitled	馮嘉儀	FUNG Ka-yee	平面創作	2-Dimensional Work	
+P092-3	65	中華基督教會基順學校	C.C.C. Kei Shun Special School	顧立勤	KU Lap-kan	11		人像研習	Portrait Studies	伍國平	WU Kwok-ping	平面創作	2-Dimensional Work	
+P092-7	66	中華基督教會基順學校	C.C.C. Kei Shun Special School	顧立勤	KU Lap-kan	11		自畫像	Self-Portrait	伍國平	WU Kwok-ping	平面創作	2-Dimensional Work	
+P099-2	67	海怡寶血小學	Precious Blood Primary School (South Horizons)	黃襄賾	WONG Sheung-chak	8		麫包樹樂園	Bread Tree Paradise	黃尚宇	WONG Sheung-yu	平面創作	2-Dimensional Work	
+P099-4	68	海怡寶血小學	Precious Blood Primary School (South Horizons)	李頌妍	LEE Chung-yin	11		心戰	Struggle	黃尚宇	WONG Sheung-yu	平面創作	2-Dimensional Work	
+P099-14	69	海怡寶血小學	Precious Blood Primary School (South Horizons)	張曉嵐	CHEUNG Hiu-laam	11		舞吧!	Let's Dance!	黃尚宇	WONG Sheung-yu	平面創作	2-Dimensional Work	
+P103-11	70	德望小學暨幼稚園	Good Hope Primary School cum Kindergarten 	鄭以蔚	CHENG Yee-wai, Audrey	11		樂器的聯想	Flute is Fun	陳月華	CHAN Yuet-wah, Cass	平面創作	2-Dimensional Work	
+P104-2	71	聖公會聖紀文小學	S.K.H. St. Clement's Primary School	盧希妍	LO Hei-yin	9		咀嚼色彩	Chewable Colour	邱美英	YAU Mei-ying	平面創作	2-Dimensional Work	
+P105-3	72	方樹福堂基金方樹泉小學	F.S.F.T.F. Fong Shu Chuen Primary School	余浩霖	YU Ho-lam	8		幫助他人	Helping Others	羅杰冰	LUO Jie-bing	平面創作	2-Dimensional Work	
+P105-4	73	方樹福堂基金方樹泉小學	F.S.F.T.F. Fong Shu Chuen Primary School	黃鈺然	WONG Yuk-yin	10		郊外小屋	A Cottage in the Countryside	何偉民	HE Wei-min	平面創作	2-Dimensional Work	
